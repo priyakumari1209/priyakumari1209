@@ -65,4 +65,5 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=priyakumari1209&show_icons=true&theme=radical&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyakumari1209&layout=compact&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyakumari1209&layout=compact&theme=radical" alt="priya-kumari" />
 </p>
