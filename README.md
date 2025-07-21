@@ -70,13 +70,7 @@ Tools & Platforms 🔧
   <img src="https://github-profile-trophy.vercel.app/?username=priyakumari1209&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
-🤝 Let's Connect & Build Something Amazing!
-<div align="center">
-Show Image
-Show Image
-Show Image
-Show Image
-</div>
+
 
 <div align="center">
 💫 "Chai in my cup, clean code on my screen — building thoughtful, beautiful components every day" ✨
