@@ -15,7 +15,7 @@
 
 - 👨‍💻 My Portfolio: [https://portfolio-git-main-priya-kumaris-projects-5f3ac6c5.vercel.app/](https://portfolio-git-main-priya-kumaris-projects-5f3ac6c5.vercel.app/)
 
-- 💬 Ask me about **HTML, CSS, JS, React, TypeScript, MUI, and more**
+- 💬 Ask me about **Laravel (Php),react,javascript,typescript....#FULL STACK DEVELOPER**
 
 - 📫 Reach me at **mishrapriya15987@gmail.com**
 
