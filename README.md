@@ -23,7 +23,8 @@
 
     </td>
     <td style="border: none; text-align: center;">
-      <img src="<img width="680" height="387" alt="image" src="https://github.com/user-attachments/assets/c9d1105c-512f-490d-853b-7c8a31e2cdc7" />
+      <img src="    ![be-your-full-stack-developer-react-nextjs-laravel-nodejs](https://github.com/user-attachments/assets/5934b6d5-fec6-4d03-a1fc-b989dd3aa491)
+  " />
 " alt="Profile Image" width="250" />
     </td>
   </tr>
