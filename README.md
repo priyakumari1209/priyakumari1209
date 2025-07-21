@@ -1,4 +1,3 @@
-<img src="https://github.com/user-attachments/assets/a96549fe-8966-472e-b952-616f3a6bcf63" />
 
 🦋 Hi there, I'm Priya!
 <div align="center">
