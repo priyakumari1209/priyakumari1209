@@ -1,5 +1,3 @@
-// script.js
-
 // Create floating stars
 function createStars() {
   const starsContainer = document.getElementById('stars');
@@ -19,10 +17,12 @@ function createFloatingElements() {
   for (let i = 0; i < 20; i++) {
     const shape = document.createElement('div');
     shape.className = 'floating-shape';
-    shape.style.width = Math.random() * 50 + 20 + 'px';
-    shape.style.height = shape.style.width;
+    const size = Math.random() * 40 + 20;
+    shape.style.width = `${size}px`;
+    shape.style.height = `${size}px`;
     shape.style.left = Math.random() * 100 + '%';
     shape.style.top = Math.random() * 100 + '%';
+    shape.style.animationDuration = 10 + Math.random() * 10 + 's';
     shape.style.animationDelay = Math.random() * 5 + 's';
     container.appendChild(shape);
   }
