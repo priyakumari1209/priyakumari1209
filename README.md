@@ -7,26 +7,30 @@
   <img src="https://komarev.com/ghpvc/?username=priyakumari1209&label=Profile%20views&color=0e75b6&style=flat" alt="priyakumari1209" /> 
 </p>
 
-<table style="border-collapse: collapse; border: none;">
-  <tr>
-    <td style="border: none;">
+🌟 About Me
+<table>
+<tr>
+<td width="50%">
+🚀 Currently on a Journey
 
-- 🌱 Currently learning **laravel as a backend**
+🌱 Learning: Laravel as backend powerhouse
+🔭 Building: Full-stack applications with modern tech
+💡 Passion: Clean code architecture & beautiful UIs
+☕ Fuel: Chai & curiosity-driven development
 
-- 👨‍💻 My Portfolio: [https://portfolio-git-main-priya-kumaris-projects-5f3ac6c5.vercel.app/](https://portfolio-git-main-priya-kumaris-projects-5f3ac6c5.vercel.app/)
+🎯 Let's Connect & Collaborate!
 
-- 💬 Ask me about **Laravel (Php),react,javascript,typescript....#FULL STACK DEVELOPER**
+💬 Ask me about: Laravel, React, JavaScript, TypeScript
+📧 Reach me: mishrapriya15987@gmail.com
+🌐 Portfolio: View My Work
 
-- 📫 Reach me at **mishrapriya15987@gmail.com**
-
-- ⚡ Fun fact: **✨ Chai in my cup, clean code on my screen — building thoughtful, beautiful components every day✨**
-
-    </td>
-    <td style="border: none; text-align: center;">
-      <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/284615870/original/433e5854b95346083a296bf619257f067271e0e0/be-your-full-stack-developer-react-nextjs-laravel-nodejs.png" />
- 
-    </td>
-  </tr>
+</td>
+<td width="50%">
+<div align="center">
+  <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/284615870/original/433e5854b95346083a296bf619257f067271e0e0/be-your-full-stack-developer-react-nextjs-laravel-nodejs.png" alt="Full Stack Developer" style="border-radius: 10px;" />
+</div>
+</td>
+</tr>
 </table>
 
 <p align="left">
