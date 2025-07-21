@@ -82,3 +82,7 @@ Tools & Platforms 🔧
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyakumari1209&layout=compact&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyakumari1209&layout=compact&theme=radical" alt="priya-kumari" />
 </p>
+🏆 Achievements & Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=priyakumari1209&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
