@@ -25,18 +25,40 @@
 
 🤝 Connect with me:
 <div align="left">
-  <a href="https://www.linkedin.com/in/priyakumari9/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Priya%20Kumari-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/priya_mishraa__/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@priya__mishraa__-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://github.com/priyakumari1209" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-priyakumari1209-181717?style=flat-square&logo=github" alt="GitHub" />
-  </a>
-  <a href="mailto:mishrapriya15987@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-mishrapriya15987@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <table>
+    <tr>
+      <td>
+        <a href="https://www.linkedin.com/in/priyakumari9/" target="_blank">
+          <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+      </td>
+      <td>Connect professionally</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.instagram.com/priya_mishraa__/" target="_blank">
+          <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+        </a>
+      </td>
+      <td>Follow my journey</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/priyakumari1209" target="_blank">
+          <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </td>
+      <td>Check out my code</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="mailto:mishrapriya15987@gmail.com" target="_blank">
+          <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+        </a>
+      </td>
+      <td>Let's collaborate</td>
+    </tr>
+  </table>
 </div>
 🛠️ Tech Arsenal
 <div align="center">
