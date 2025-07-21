@@ -50,7 +50,7 @@
     alt="GitHub"
     height="30"
     width="40"
-    style="background-color: #ffffff; border-radius: 4px; padding: 4px;"
+    style="background-color:#ffff00; border-radius: 4px; padding: 4px;"
   />
 </a>
 </p>
