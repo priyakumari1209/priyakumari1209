@@ -11,7 +11,7 @@
   <tr>
     <td style="border: none;">
 
-- 🌱 Currently learning **Advanced Next.js & Animations**
+- 🌱 Currently learning **laravel as a backend**
 
 - 👨‍💻 My Portfolio: [https://portfolio-git-main-priya-kumaris-projects-5f3ac6c5.vercel.app/](https://portfolio-git-main-priya-kumaris-projects-5f3ac6c5.vercel.app/)
 
