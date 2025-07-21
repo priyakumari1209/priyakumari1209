@@ -59,6 +59,21 @@
   <a href="https://mui.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/></a>
   <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
 </p>
+🛠️ Tech Arsenal
+<div align="center">
+Frontend Magic ✨
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,materialui,tailwind" alt="Frontend Skills" />
+</p>
+Backend Power ⚡
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,postgresql,mongodb" alt="Backend Skills" />
+</p>
+Tools & Platforms 🔧
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,docker" alt="Tools & Platforms" />
+</p>
+</div>
 
 ## 📊 GitHub Stats
 
