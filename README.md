@@ -1,4 +1,3 @@
-
 🦋 Hi there, I'm Priya!
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+%F0%9F%9A%80;Laravel+%7C+React+%7C+TypeScript;Building+Beautiful+Digital+Experiences+%E2%9C%A8" alt="Typing SVG" />
@@ -79,13 +78,7 @@ Tools & Platforms 🔧
 </p>
 </div>
 
-## 📊 GitHub Stats
 
-<p align="left">
-  <img src="" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyakumari1209&layout=compact&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyakumari1209&layout=compact&theme=radical" alt="priya-kumari" />
-</p>
 
 📊 GitHub Analytics
 <div align="center">
