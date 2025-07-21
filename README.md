@@ -23,7 +23,7 @@
 
     </td>
     <td style="border: none; text-align: center;">
-      <img src="    ![be-your-full-stack-developer-react-nextjs-laravel-nodejs](https://github.com/user-attachments/assets/5934b6d5-fec6-4d03-a1fc-b989dd3aa491)
+      <img src=" [   ![be-your-full-stack-developer-react-nextjs-laravel-nodejs](https://github.com/user-attachments/assets/5934b6d5-fec6-4d03-a1fc-b989dd3aa491)](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/284615870/original/433e5854b95346083a296bf619257f067271e0e0/be-your-full-stack-developer-react-nextjs-laravel-nodejs.png)
   " />
 " alt="Profile Image" width="250" />
     </td>
