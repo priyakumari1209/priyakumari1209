@@ -19,7 +19,7 @@
 
 - 📫 Reach me at **mishrapriya15987@gmail.com**
 
-- ⚡ Fun fact: **I turn Chai☕ into beautiful components and clean code ✨**
+- ⚡ Fun fact: **✨ Chai in my cup, clean code on my screen — building thoughtful, beautiful components every day✨**
 
     </td>
     <td style="border: none; text-align: center;">
