@@ -26,16 +26,16 @@
 🤝 Connect with me:
 <div align="left">
   <a href="https://www.linkedin.com/in/priyakumari9/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Priya%20Kumari-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/priya_mishraa__/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-@priya__mishraa__-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://github.com/priyakumari1209" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-priyakumari1209-181717?style=flat-square&logo=github" alt="GitHub" />
   </a>
   <a href="mailto:mishrapriya15987@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Email-mishrapriya15987@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 🛠️ Tech Arsenal
