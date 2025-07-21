@@ -2,10 +2,11 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+%F0%9F%9A%80;Laravel+%7C+React+%7C+TypeScript;Building+Beautiful+Digital+Experiences+%E2%9C%A8" alt="Typing SVG" />
 </div>
-<img src="https://komarev.com/ghpvc/?username=priyakumari1209&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 <div align="center">
   <img src="https://github.com/user-attachments/assets/a96549fe-8966-472e-b952-616f3a6bcf63" alt="Profile Banner" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <img src="https://komarev.com/ghpvc/?username=priyakumari1209&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
+
 
 🌟 About Me
 <table style="border-collapse: collapse; border: none;">
