@@ -63,7 +63,7 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="[https://github-readme-stats.vercel.app/api?username=priyakumari1209&show_icons=true&theme=radical&count_private=true](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/112140351/original/7b71984bf71c1965bc82da89f1a1eb3cc073adbb/be-your-web-developer-in-php-mysql-wordpress-or-javascript.jpg)" />
+  <img src="" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyakumari1209&layout=compact&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyakumari1209&layout=compact&theme=radical" alt="priya-kumari" />
 </p>
