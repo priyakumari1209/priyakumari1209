@@ -23,21 +23,6 @@
 📧 Reach me: mishrapriya15987@gmail.com
 🌐 Portfolio: View My Work
 
-</td>
-<td width="50%">
-<div align="center">
-  <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/284615870/original/433e5854b95346083a296bf619257f067271e0e0/be-your-full-stack-developer-react-nextjs-laravel-nodejs.png" alt="Full Stack Developer" style="border-radius: 10px;" />
-</div>
-</td>
-</tr>
-</table>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=priyakumari1209" alt="priyakumari1209" />
-  </a>
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/priyakumari9/" target="blank">
