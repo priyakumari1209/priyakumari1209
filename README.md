@@ -37,7 +37,7 @@
   <a href="mailto:mishrapriya15987@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" height="40" />
   </a>
-</div>img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40"  />
+
 </p>
 🛠️ Tech Arsenal
 <div align="center">
