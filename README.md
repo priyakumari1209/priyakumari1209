@@ -43,9 +43,16 @@
   <a href="https://www.instagram.com/priya_mishraa__/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Priya Instagram" height="30" width="40" />
   </a>
-  <a href="https://github.com/priyakumari1209" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
-  </a>
+  <a href="https://github.com/priyakumari1209" target="_blank">
+  <img
+    align="center"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+    alt="GitHub"
+    height="30"
+    width="40"
+    style="background-color: #ffffff; border-radius: 4px; padding: 4px;"
+  />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
