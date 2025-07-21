@@ -23,7 +23,8 @@
 
     </td>
     <td style="border: none; text-align: center;">
-      <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Profile Image" width="250" />
+      <img src="<img width="680" height="387" alt="image" src="https://github.com/user-attachments/assets/c9d1105c-512f-490d-853b-7c8a31e2cdc7" />
+" alt="Profile Image" width="250" />
     </td>
   </tr>
 </table>
