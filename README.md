@@ -1,7 +1,7 @@
 <img src="https://github.com/user-attachments/assets/a96549fe-8966-472e-b952-616f3a6bcf63" />
 
 <h1 align="center">Hi 👋, I'm Priya</h1>
-<h3 align="center">Passionate about crafting sleek web experiences with React, Next.js & modern tools</h3>
+<h3 align="center">Exploring every facet of app development — in my cocoon phase now, growing wings with Laravel and React to become a butterfly in the digital world.</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=priyakumari1209&label=Profile%20views&color=0e75b6&style=flat" alt="priyakumari1209" /> 
