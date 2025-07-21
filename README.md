@@ -82,6 +82,23 @@ Tools & Platforms 🔧
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyakumari1209&layout=compact&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyakumari1209&layout=compact&theme=radical" alt="priya-kumari" />
 </p>
+
+📊 GitHub Analytics
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyakumari1209&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyakumari1209&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+      </td>
+    </tr>
+  </table>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyakumari1209&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 🏆 Achievements & Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=priyakumari1209&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
