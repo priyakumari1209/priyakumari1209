@@ -24,7 +24,7 @@
     </td>
     <td style="border: none; text-align: center;">
       <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/284615870/original/433e5854b95346083a296bf619257f067271e0e0/be-your-full-stack-developer-react-nextjs-laravel-nodejs.png" />
-" alt="Profile Image" width="250" />
+ />
     </td>
   </tr>
 </table>
