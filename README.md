@@ -7,9 +7,9 @@
 </div>
 
 🌟 About Me
-<table>
+<table style="border-collapse: collapse; border: none;">
 <tr>
-<td width="50%">
+<td style="border: none;" width="50%">
 🚀 Currently on a Journey
 
 🌱 Learning: Laravel as backend powerhouse
@@ -22,27 +22,14 @@
 💬 Ask me about: Laravel, React, JavaScript, TypeScript
 📧 Reach me: mishrapriya15987@gmail.com
 🌐 Portfolio: View My Work
+
 </td>
 <td style="border: none; text-align: center;" width="50%">
 <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/284615870/original/433e5854b95346083a296bf619257f067271e0e0/be-your-full-stack-developer-react-nextjs-laravel-nodejs.png" alt="Full Stack Developer" />
 </td>
 </tr>
+</table>
 
-🤝 Connect with me:
-<div align="left">
-  <a href="https://www.linkedin.com/in/priyakumari9/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" height="40" />
-  </a>
-  <a href="https://www.instagram.com/priya_mishraa__/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" height="40" />
-  </a>
-  <a href="https://github.com/priyakumari1209" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" height="40" />
-  </a>
-  <a href="mailto:mishrapriya15987@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" height="40" />
-  </a>
-</div>
 🛠️ Tech Arsenal
 <div align="center">
 Frontend Magic ✨
@@ -75,7 +62,26 @@ Tools & Platforms 🔧
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyakumari1209&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
+
 🏆 Achievements & Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=priyakumari1209&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
+
+🤝 Let's Connect & Build Something Amazing!
+<div align="center">
+Show Image
+Show Image
+Show Image
+Show Image
+</div>
+
+<div align="center">
+💫 "Chai in my cup, clean code on my screen — building thoughtful, beautiful components every day" ✨
+<img src="https://komarev.com/ghpvc/?username=priyakumari1209&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+🦋 From cocoon to butterfly — transforming ideas into digital reality
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&reversal=false&textBg=false" alt="Footer" />
 </div>
