@@ -1,19 +1,18 @@
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Full-Stack+Software+Developer;Laravel+%7C+React+%7C+TypeScript;Crafting+Scalable+Digital+Solutions" alt="Typing Animation" /> </div> <div align="center"> <img src="https://komarev.com/ghpvc/?username=priyakumari1209&label=Profile%20Views&color=6366F1&style=flat-square" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/priyakumari1209?label=Followers&color=6366F1&style=flat-square" alt="GitHub Followers" /> <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-6366F1?style=flat-square" alt="Focus" /> </div> <br> <h1 align="center">👋 Hello, I'm Priya Kumari</h1> <p align="center"> <img src="https://github.com/user-attachments/assets/a96549fe-8966-472e-b952-616f3a6bcf63" alt="Profile Banner" width="600" style="border-radius: 15px;" /> </p>
 🚀 About Me
-typescript
-const priya: Developer = {
-  role: "Full-Stack Software Developer",
-  currentFocus: ["Laravel Backend Architecture", "React Frontend Development"],
-  technologies: {
-    frontend: ["React", "TypeScript", "Next.js", "Tailwind CSS"],
-    backend: ["Laravel", "Node.js", "PHP", "REST APIs"],
-    databases: ["MySQL", "PostgreSQL", "MongoDB"],
-    tools: ["Git", "Docker", "VS Code", "Figma"]
-  },
-  architecture: ["MVC", "RESTful APIs", "Microservices", "Component-Based"],
-  currentlyLearning: "Advanced Laravel Patterns & React Performance Optimization",
-  hobbies: ["☕ Chai Enthusiast", "🎨 UI/UX Design", "📚 Tech Blogs"]
-};
+<table> <tr> <td width="60%">
+👋 Welcome to my digital workspace!
+I'm a passionate Full-Stack Developer who transforms ideas into powerful digital experiences. With a love for both elegant frontend interfaces and robust backend architectures, I create applications that not only look beautiful but perform exceptionally.
+
+🌱 Currently exploring: Advanced Laravel patterns and React performance optimization
+💡 Passion: Building scalable applications with clean, maintainable code
+⚡ Superpower: Turning complex problems into simple, elegant solutions
+☕ Fuel: Great chai and even better code reviews
+
+🎯 What drives me?
+I believe in the power of technology to solve real-world problems. Whether it's crafting intuitive user interfaces or designing efficient database schemas, I'm always focused on creating solutions that make a difference.
+
+</td> <td width="40%"> <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Coding" /> <div align="center"> <img src="https://img.shields.io/badge/Frontend-React%20%7C%20TypeScript-61DAFB?style=flat-square&logo=react" alt="Frontend" /> <img src="https://img.shields.io/badge/Backend-Laravel%20%7C%20Node.js-FF2D20?style=flat-square&logo=laravel" alt="Backend" /> <img src="https://img.shields.io/badge/Database-MySQL%20%7C%20MongoDB-4479A1?style=flat-square&logo=mysql" alt="Database" /> </div> </td> </tr> </table>
 💼 What I Do
 🏗️ Backend Development: Building robust, scalable APIs with Laravel and Node.js
 🎨 Frontend Development: Creating responsive, interactive UIs with React and TypeScript
