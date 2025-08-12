@@ -1,43 +1,36 @@
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Full-Stack+Software+Developer;Laravel+%7C+React+%7C+TypeScript;Crafting+Scalable+Digital+Solutions" alt="Typing Animation" /> </div> <div align="center"> <img src="https://komarev.com/ghpvc/?username=priyakumari1209&label=Profile%20Views&color=6366F1&style=flat-square" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/priyakumari1209?label=Followers&color=6366F1&style=flat-square" alt="GitHub Followers" /> <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-6366F1?style=flat-square" alt="Focus" /> </div> <br> <h1 align="center">👋 Hello, I'm Priya Kumari</h1> <p align="center"> <img src="https://github.com/user-attachments/assets/a96549fe-8966-472e-b952-616f3a6bcf63" alt="Profile Banner" width="600" style="border-radius: 15px;" /> </p>
-🚀 About Me
-<table> <tr> <td width="60%">
-👋 Welcome to my digital workspace!
-I'm a passionate Full-Stack Developer who transforms ideas into powerful digital experiences. With a love for both elegant frontend interfaces and robust backend architectures, I create applications that not only look beautiful but perform exceptionally.
-
-🌱 Currently exploring: Advanced Laravel patterns and React performance optimization
-💡 Passion: Building scalable applications with clean, maintainable code
-⚡ Superpower: Turning complex problems into simple, elegant solutions
-☕ Fuel: Great chai and even better code reviews
-
-🎯 What drives me?
-I believe in the power of technology to solve real-world problems. Whether it's crafting intuitive user interfaces or designing efficient database schemas, I'm always focused on creating solutions that make a difference.
-
-</td> <td width="40%"> <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Coding" /> <div align="center"> <img src="https://img.shields.io/badge/Frontend-React%20%7C%20TypeScript-61DAFB?style=flat-square&logo=react" alt="Frontend" /> <img src="https://img.shields.io/badge/Backend-Laravel%20%7C%20Node.js-FF2D20?style=flat-square&logo=laravel" alt="Backend" /> <img src="https://img.shields.io/badge/Database-MySQL%20%7C%20MongoDB-4479A1?style=flat-square&logo=mysql" alt="Database" /> </div> </td> </tr> </table>
-💼 What I Do
-🏗️ Backend Development: Building robust, scalable APIs with Laravel and Node.js
-🎨 Frontend Development: Creating responsive, interactive UIs with React and TypeScript
-🗄️ Database Design: Designing efficient database schemas and optimizing queries
-🔧 DevOps: Implementing CI/CD pipelines and containerization with Docker
-📱 Full-Stack Projects: End-to-end application development from concept to deployment
-🛠️ Technology Stack
-<div align="center">
-Frontend Technologies
-<p> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> </p>
-Backend Technologies
-<p> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /> </p>
-Databases
-<p> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> </p>
-Tools & Platforms
-<p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /> </p> </div>
-📊 GitHub Statistics
-<div align="center"> <table> <tr> <td width="50%"> <img height="200px" src="https://github-readme-stats.vercel.app/api?username=priyakumari1209&show_icons=true&theme=github_dark&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=ffffff&bg_color=0D1117" alt="GitHub Stats" /> </td> <td width="50%"> <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyakumari1209&layout=compact&theme=github_dark&hide_border=true&title_color=6366F1&text_color=ffffff&bg_color=0D1117" alt="Most Used Languages" /> </td> </tr> </table> <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyakumari1209&theme=github-dark-blue&hide_border=true&stroke=6366F1&ring=6366F1&fire=6366F1" alt="GitHub Streak" /> </div>
-🏆 GitHub Achievements
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=priyakumari1209&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" /> </div>
-📈 Contribution Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyakumari1209&theme=github-compact&bg_color=0D1117&color=6366F1&line=6366F1&point=ffffff&hide_border=true" alt="GitHub Activity Graph" /> </div>
-🌟 Featured Projects
-Coming soon - showcasing my best full-stack applications
-
-📫 Let's Connect
-<div align="center"> <a href="mailto:mishrapriya15987@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="#"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /> </a> <a href="#"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> </div>
-<div align="center"> <i>💡 "Clean code is not written by following a set of rules. Clean code is written by following a set of principles."</i> <br><br> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" alt="Footer Wave" /> </div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Priya%20Kumari&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Crafting%20Digital%20Experiences%20with%20Code&descAlignY=55&descSize=18" /> </div> <div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=24&duration=2000&pause=800&color=667eea&center=true&vCenter=true&multiline=true&width=600&height=100&lines=const+developer+%3D+%7B;++name%3A+%22Priya+Kumari%22%2C;++role%3A+%22Full-Stack+Engineer%22;%7D%3B" alt="Code Typing" /> </div> <div align="center"> <img src="https://img.shields.io/badge/🌍_Based_in-India-764ba2?style=for-the-badge&labelColor=667eea" /> <img src="https://img.shields.io/badge/💼_Available_for-Collaboration-764ba2?style=for-the-badge&labelColor=667eea" /> <img src="https://img.shields.io/badge/☕_Powered_by-Chai-764ba2?style=for-the-badge&labelColor=667eea" /> </div> <br>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
+<div align="center"> <table border="0" cellspacing="0" cellpadding="0"> <tr> <td width="55%" valign="top"> <h3>🚀 Digital Architect & Problem Solver</h3> <p>I don't just write code – I craft experiences. Every line of code is a brushstroke on the canvas of the digital world, creating applications that breathe life into ideas.</p>
+    <img src="https://img.shields.io/badge/🎯_Current_Focus-Advanced_Laravel_+_React_Optimization-667eea?style=flat-square&labelColor=764ba2" />
+    <br><br>
+    
+    <h4>💭 My Philosophy</h4>
+    <blockquote>
+      <i>"Code is poetry written for machines but read by humans. Make it beautiful, make it meaningful."</i>
+    </blockquote>
+    
+    <h4>🌟 What Makes Me Tick</h4>
+    <ul>
+      <li>🧩 <b>Problem Solving:</b> Turning complex challenges into elegant solutions</li>
+      <li>🎨 <b>UI/UX Passion:</b> Making technology feel human</li>
+      <li>⚡ <b>Performance:</b> Every millisecond matters</li>
+      <li>📚 <b>Continuous Learning:</b> Technology never sleeps, neither do I</li>
+    </ul>
+  </td>
+  <td width="45%" align="center">
+    <img src="https://github.com/user-attachments/assets/a96549fe-8966-472e-b952-616f3a6bcf63" width="100%" style="border-radius: 20px;" />
+    <br><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=priyakumari1209&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&border_radius=20" width="100%" />
+  </td>
+</tr>
+</table> </div>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Tech Universe
+<div align="center"> <table> <tr> <td width="33%" align="center"> <h3>🎨 Frontend Mastery</h3> <img src="https://skillicons.dev/icons?i=react,typescript,nextjs,javascript,html,css,tailwind,materialui&perline=4" /> <br><br> <img src="https://img.shields.io/badge/Specialty-Interactive_UIs-667eea?style=for-the-badge&labelColor=764ba2" /> </td> <td width="33%" align="center"> <h3>⚙️ Backend Power</h3> <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,mysql,postgresql,mongodb,redis,docker&perline=4" /> <br><br> <img src="https://img.shields.io/badge/Specialty-Scalable_APIs-667eea?style=for-the-badge&labelColor=764ba2" /> </td> <td width="33%" align="center"> <h3>🛠️ DevOps & Tools</h3> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,aws,linux,postman&perline=4" /> <br><br> <img src="https://img.shields.io/badge/Specialty-CI/CD_Pipelines-667eea?style=for-the-badge&labelColor=764ba2" /> </td> </tr> </table> </div>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"> Development Arsenal
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyakumari1209&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&border_radius=20" width="300" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyakumari1209&theme=radical&hide_border=true&background=0d1117&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=764ba2&border_radius=20" width="400" /> </div> <br> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyakumari1209&custom_title=Contribution%20Journey&bg_color=0d1117&color=667eea&line=764ba2&point=667eea&area_color=764ba2&area=true&hide_border=true&border_radius=20" width="100%" /> </div>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Project Showcase
+<div align="center"> <table> <tr> <td width="50%" align="center"> <h3>🚧 Coming Soon</h3> <img src="https://via.placeholder.com/400x200/667eea/ffffff?text=Full-Stack+E-Commerce" style="border-radius: 15px;" /> <br> <img src="https://img.shields.io/badge/Tech-Laravel+|+React-667eea?style=flat-square&labelColor=764ba2" /> <img src="https://img.shields.io/badge/Status-In_Development-orange?style=flat-square" /> </td> <td width="50%" align="center"> <h3>🔥 Featured Project</h3> <img src="https://via.placeholder.com/400x200/764ba2/ffffff?text=Task+Management+App" style="border-radius: 15px;" /> <br> <img src="https://img.shields.io/badge/Tech-Next.js+|+Node.js-667eea?style=flat-square&labelColor=764ba2" /> <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" /> </td> </tr> </table> </div>
+<img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="35"> Achievement Unlocked
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=priyakumari1209&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=4&title=Stars,Followers,Commits,Repositories" /> </div>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Let's Build Something Amazing
+<div align="center"> <table> <tr> <td align="center" width="33%"> <h3>💬 Let's Talk</h3> <a href="mailto:mishrapriya15987@gmail.com"> <img src="https://img.shields.io/badge/📧_Email-mishrapriya15987@gmail.com-667eea?style=for-the-badge&labelColor=764ba2&logoColor=white" /> </a> </td> <td align="center" width="33%"> <h3>🌐 Portfolio</h3> <a href="#"> <img src="https://img.shields.io/badge/🌍_View_Portfolio-Coming_Soon-667eea?style=for-the-badge&labelColor=764ba2" /> </a> </td> <td align="center" width="33%"> <h3>🤝 Connect</h3> <a href="#"> <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-667eea?style=for-the-badge&labelColor=764ba2&logo=linkedin&logoColor=white" /> </a> </td> </tr> </table> </div> <br> <div align="center"> <h3>📈 Visitor Count</h3> <img src="https://komarev.com/ghpvc/?username=priyakumari1209&label=Profile%20Visitors&color=667eea&style=for-the-badge&labelColor=764ba2" /> </div> <div align="center"> <h2>💫 "Every expert was once a beginner. Every pro was once an amateur."</h2> <p><i>Building the future, one commit at a time</i></p> </div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&animation=twinkling" /> </div>
