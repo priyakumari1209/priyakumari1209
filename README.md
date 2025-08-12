@@ -1,21 +1,22 @@
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Priya%20Kumari&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Crafting%20Digital%20Experiences%20with%20Code&descAlignY=55&descSize=18" /> </div> <div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=24&duration=2000&pause=800&color=667eea&center=true&vCenter=true&multiline=true&width=600&height=100&lines=const+developer+%3D+%7B;++name%3A+%22Priya+Kumari%22%2C;++role%3A+%22Full-Stack+Engineer%22;%7D%3B" alt="Code Typing" /> </div> <div align="center"> <img src="https://img.shields.io/badge/🌍_Based_in-India-764ba2?style=for-the-badge&labelColor=667eea" /> <img src="https://img.shields.io/badge/💼_Available_for-Collaboration-764ba2?style=for-the-badge&labelColor=667eea" /> <img src="https://img.shields.io/badge/☕_Powered_by-Chai-764ba2?style=for-the-badge&labelColor=667eea" /> </div> <br>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
-<div align="center"> <table border="0" cellspacing="0" cellpadding="0"> <tr> <td width="55%" valign="top"> <h3>🚀 Digital Architect & Problem Solver</h3> <p>I don't just write code – I craft experiences. Every line of code is a brushstroke on the canvas of the digital world, creating applications that breathe life into ideas.</p>
-    <img src="https://img.shields.io/badge/🎯_Current_Focus-Advanced_Laravel_+_React_Optimization-667eea?style=flat-square&labelColor=764ba2" />
-    <br><br>
+<div align="center"> <table border="0" cellspacing="0" cellpadding="0"> <tr> <td width="55%" valign="top"> ### 🚀 Digital Architect & Code Artist
+    I transform complex problems into elegant digital solutions. My passion lies in creating applications that not only function flawlessly but also provide meaningful user experiences.
     
-    <h4>💭 My Philosophy</h4>
-    <blockquote>
-      <i>"Code is poetry written for machines but read by humans. Make it beautiful, make it meaningful."</i>
-    </blockquote>
+    <div align="center">
+      <img src="https://img.shields.io/badge/🎯_Focus-Laravel_+_React_Mastery-667eea?style=for-the-badge&labelColor=764ba2" />
+    </div>
     
-    <h4>🌟 What Makes Me Tick</h4>
-    <ul>
-      <li>🧩 <b>Problem Solving:</b> Turning complex challenges into elegant solutions</li>
-      <li>🎨 <b>UI/UX Passion:</b> Making technology feel human</li>
-      <li>⚡ <b>Performance:</b> Every millisecond matters</li>
-      <li>📚 <b>Continuous Learning:</b> Technology never sleeps, neither do I</li>
-    </ul>
+    <br>
+    
+    > 💭 **"Great software is built by people who care about the craft, not just the code."**
+    
+    **🌟 Core Strengths:**
+    
+    🧩 **Problem Solving** → Complex challenges become elegant solutions  
+    🎨 **UI/UX Design** → Making technology intuitive and beautiful  
+    ⚡ **Performance Focus** → Every millisecond counts in user experience  
+    📚 **Growth Mindset** → Always learning, always evolving
   </td>
   <td width="45%" align="center">
     <img src="https://github.com/user-attachments/assets/a96549fe-8966-472e-b952-616f3a6bcf63" width="100%" style="border-radius: 20px;" />
