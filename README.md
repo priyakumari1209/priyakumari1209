@@ -1,86 +1,44 @@
-diff
-+ Hello World! I'm Priya Kumari
-- Your typical developer introduction
-+ Full-Stack Software Engineer crafting digital magic ✨
-<div align="right"> <img src="https://komarev.com/ghpvc/?username=priyakumari1209&label=Curious%20Visitors&color=ff6b6b&style=flat" /> </div>
-📡 System Status: ONLINE
-javascript
-// Real-time developer stats
-const priya = {
-  status: "🟢 Available for awesome projects",
-  location: "Chennai, India 🇮🇳",
-  currentMood: "☕ Caffeinated & Creative",
-  workingOn: "🚧 Next-gen web applications",
-  obsessedWith: ["Clean Code", "User Experience", "Performance"],
-  currentlyLearning: "Advanced React Patterns & Laravel Architecture",
-  funFact: "I debug with console.log() and I'm not ashamed! 😄"
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Full-Stack+Software+Developer;Laravel+%7C+React+%7C+TypeScript;Crafting+Scalable+Digital+Solutions" alt="Typing Animation" /> </div> <div align="center"> <img src="https://komarev.com/ghpvc/?username=priyakumari1209&label=Profile%20Views&color=6366F1&style=flat-square" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/priyakumari1209?label=Followers&color=6366F1&style=flat-square" alt="GitHub Followers" /> <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-6366F1?style=flat-square" alt="Focus" /> </div> <br> <h1 align="center">👋 Hello, I'm Priya Kumari</h1> <p align="center"> <img src="https://github.com/user-attachments/assets/a96549fe-8966-472e-b952-616f3a6bcf63" alt="Profile Banner" width="600" style="border-radius: 15px;" /> </p>
+🚀 About Me
+typescript
+const priya: Developer = {
+  role: "Full-Stack Software Developer",
+  currentFocus: ["Laravel Backend Architecture", "React Frontend Development"],
+  technologies: {
+    frontend: ["React", "TypeScript", "Next.js", "Tailwind CSS"],
+    backend: ["Laravel", "Node.js", "PHP", "REST APIs"],
+    databases: ["MySQL", "PostgreSQL", "MongoDB"],
+    tools: ["Git", "Docker", "VS Code", "Figma"]
+  },
+  architecture: ["MVC", "RESTful APIs", "Microservices", "Component-Based"],
+  currentlyLearning: "Advanced Laravel Patterns & React Performance Optimization",
+  hobbies: ["☕ Chai Enthusiast", "🎨 UI/UX Design", "📚 Tech Blogs"]
 };
-
-console.log("Welcome to my digital playground! 🎮");
-🎯 My Digital Playground
-<table> <tr> <td>
-🌟 FRONTEND UNIVERSE
-
-bash
-$ npm install creativity
-$ yarn add innovation
-$ git commit -m "Beautiful UIs"
-React・TypeScript・Next.js
-JavaScript・HTML5・CSS3
-Tailwind・Material-UI
-
-</td> <td>
-⚡ BACKEND POWERHOUSE
-
-bash
-$ composer require efficiency  
-$ php artisan make:magic
-$ docker-compose up awesome
-Laravel・PHP・Node.js
-MySQL・PostgreSQL・MongoDB
-Docker・REST APIs
-
-</td> </tr> </table>
-🎮 Achievement Board
+💼 What I Do
+🏗️ Backend Development: Building robust, scalable APIs with Laravel and Node.js
+🎨 Frontend Development: Creating responsive, interactive UIs with React and TypeScript
+🗄️ Database Design: Designing efficient database schemas and optimizing queries
+🔧 DevOps: Implementing CI/CD pipelines and containerization with Docker
+📱 Full-Stack Projects: End-to-end application development from concept to deployment
+🛠️ Technology Stack
 <div align="center">
-🏆 Achievement	📊 Progress	🎯 Next Level
-Code Commits	Show Image
-1000 commits
-Projects Built	Show Image
-25 projects
-Coffee Consumed	Show Image
-Still counting...
-</div>
-📈 Code Analytics Dashboard
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=priyakumari1209&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1a1b27&title_color=ff6b6b&icon_color=4ecdc4&text_color=a6accd" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyakumari1209&theme=material-palenight&hide_border=true&background=1a1b27&stroke=ff6b6b&ring=4ecdc4&fire=ff6b6b&currStreakLabel=4ecdc4" width="48%" /> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyakumari1209&layout=compact&theme=material-palenight&hide_border=true&bg_color=1a1b27&title_color=ff6b6b&text_color=a6accd" width="50%" /> </div>
-🚀 Mission Control: Recent Deployments
-yaml
-# Latest Launch Sequence
-deployment_status: ✅ All systems operational
-last_deployment: 2024-12-xx
-next_mission: Building something extraordinary
-rocket_fuel: Chai ☕ + Determination 💪
+Frontend Technologies
+<p> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> </p>
+Backend Technologies
+<p> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /> </p>
+Databases
+<p> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> </p>
+Tools & Platforms
+<p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /> </p> </div>
+📊 GitHub Statistics
+<div align="center"> <table> <tr> <td width="50%"> <img height="200px" src="https://github-readme-stats.vercel.app/api?username=priyakumari1209&show_icons=true&theme=github_dark&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=ffffff&bg_color=0D1117" alt="GitHub Stats" /> </td> <td width="50%"> <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyakumari1209&layout=compact&theme=github_dark&hide_border=true&title_color=6366F1&text_color=ffffff&bg_color=0D1117" alt="Most Used Languages" /> </td> </tr> </table> <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyakumari1209&theme=github-dark-blue&hide_border=true&stroke=6366F1&ring=6366F1&fire=6366F1" alt="GitHub Streak" /> </div>
+🏆 GitHub Achievements
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=priyakumari1209&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" /> </div>
+📈 Contribution Graph
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyakumari1209&theme=github-compact&bg_color=0D1117&color=6366F1&line=6366F1&point=ffffff&hide_border=true" alt="GitHub Activity Graph" /> </div>
+🌟 Featured Projects
+Coming soon - showcasing my best full-stack applications
 
-recent_commits:
-  - feat: "Added some magic to user interface ✨"
-  - fix: "Squashed bugs like a pro 🐛➡️💀"  
-  - refactor: "Made code prettier than a sunset 🌅"
-  - docs: "Updated documentation (yes, I actually do this!) 📚"
-🎨 Creative Lab
-<div align="center">
-🔥 Currently Brewing
-Something amazing is in development...
-
-🎯 Secret Project Alpha 🚀 Innovation Beta
-
-</div>
-📞 Connect & Collaborate
-<div align="center">
-Ready to build something incredible together?
-
-📧 Email • 💼 Portfolio • 🔗 LinkedIn
-
-"The best time to plant a tree was 20 years ago. The second best time is now. The same goes for starting your next project!" 🌱
-
-</div>
-<div align="center"> <sub>⚡ Powered by passion, fueled by coffee, driven by curiosity</sub> </div> <div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=12&duration=4000&pause=2000&color=ff6b6b&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+digital+space!+🚀;Let's+create+something+awesome+together!+✨;Happy+coding!+💻" /> </div>
+📫 Let's Connect
+<div align="center"> <a href="mailto:mishrapriya15987@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="#"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /> </a> <a href="#"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> </div>
+<div align="center"> <i>💡 "Clean code is not written by following a set of rules. Clean code is written by following a set of principles."</i> <br><br> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" alt="Footer Wave" /> </div>
