@@ -1,248 +1,50 @@
-🚀 ProjectName
-<div align="center">
-Show Image
-Show Image
-Show Image
-Show Image
+🦋 Hi there, I'm Priya!
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=36&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+%F0%9F%9A%80;Laravel+%7C+React+%7C+TypeScript;Building+Beautiful+Digital+Experiences+%E2%9C%A8;Transforming+Ideas+into+Reality+%F0%9F%A6%8B" alt="Typing SVG" /> </div> <div align="center"> <img src="https://github.com/user-attachments/assets/a96549fe-8966-472e-b952-616f3a6bcf63" alt="Profile Banner" style="border-radius: 20px; box-shadow: 0 8px 32px rgba(168, 85, 247, 0.15);" />
+<br><br>
 
-A modern, fast, and reliable solution for [your problem domain]
-
-📱 Live Demo • 📖 Documentation • 🐛 Report Bug • ✨ Request Feature
-
+<img src="https://komarev.com/ghpvc/?username=priyakumari1209&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/priyakumari1209?label=Followers&style=for-the-badge&color=blueviolet" alt="GitHub Followers" /> </div>
+🌟 About Me
+<div align="center"> <table style="border: none; width: 100%;"> <tr> <td style="border: none; vertical-align: top; padding: 20px;" width="60%">
+🚀 Currently on a Journey
+🌱 Learning: Laravel as backend powerhouse & advanced React patterns
+🔭 Building: Full-stack applications with modern architecture
+💡 Passion: Clean code, beautiful UIs, and seamless user experiences
+☕ Fuel: Chai & curiosity-driven development
+🎯 Goal: Creating digital solutions that make a difference
+💬 Let's Connect & Collaborate!
+Ask me about: Laravel, React, JavaScript, TypeScript, Full-Stack Development
+📧 Email: mishrapriya15987@gmail.com
+🌐 Portfolio: View My Work
+💼 LinkedIn: Connect with me
+</td>
+<td style="border: none; text-align: center; padding: 20px;" width="40%">
+  <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/284615870/original/433e5854b95346083a296bf619257f067271e0e0/be-your-full-stack-developer-react-nextjs-laravel-nodejs.png" alt="Full Stack Developer" style="border-radius: 15px; width: 100%; max-width: 400px;" />
+</td>
+</tr> </table>
 </div>
-📖 About The Project
-ProjectName is designed to solve [specific problem] by providing [your solution]. Built with modern technologies, it offers a seamless experience for [target users].
-
-✨ Key Features
-🚀 Fast Performance - Lightning-fast execution with optimized algorithms
-🔐 Secure - Built with security best practices
-📱 Responsive Design - Works perfectly on all devices
-🛠️ Easy to Use - Simple and intuitive interface
-🔧 Highly Configurable - Customize to fit your needs
-📊 Analytics Ready - Built-in tracking and reporting
-🛠️ Built With
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-
-🚀 Getting Started
-Prerequisites
-Node.js (v18.0.0 or higher)
-npm or yarn
-Docker (optional)
-Installation
-Clone the repository
-bash
-git clone https://github.com/yourusername/projectname.git
-cd projectname
-Install dependencies
-bash
-npm install
-# or
-yarn install
-Set up environment variables
-bash
-cp .env.example .env
-Edit .env file with your configuration:
-env
-DATABASE_URL="your_database_url"
-API_KEY="your_api_key"
-SECRET_KEY="your_secret_key"
-Start the development server
-bash
-npm run dev
-# or
-yarn dev
-Open your browser Navigate to http://localhost:3000
-🐳 Docker Installation (Alternative)
-bash
-# Clone and navigate to project
-git clone https://github.com/yourusername/projectname.git
-cd projectname
-
-# Build and run with Docker
-docker-compose up --build
-
-# Access at http://localhost:3000
-💻 Usage
-Basic Example
-javascript
-import { ProjectName } from 'projectname';
-
-// Initialize
-const app = new ProjectName({
-  apiKey: 'your-api-key',
-  environment: 'production'
-});
-
-// Basic usage
-const result = await app.process({
-  input: 'Hello World',
-  options: {
-    format: 'json',
-    includeMetadata: true
-  }
-});
-
-console.log(result);
-// Output: { success: true, data: {...}, metadata: {...} }
-Advanced Configuration
-javascript
-// Advanced setup with custom options
-const app = new ProjectName({
-  apiKey: 'your-api-key',
-  baseURL: 'https://api.example.com',
-  timeout: 30000,
-  retries: 3,
-  features: {
-    analytics: true,
-    caching: true,
-    logging: 'debug'
-  }
-});
-
-// Custom processing
-const advancedResult = await app.processAdvanced({
-  data: yourData,
-  transformers: ['normalize', 'validate', 'enhance'],
-  output: {
-    format: 'csv',
-    destination: 'local'
-  }
-});
-API Examples
-bash
-# GET request
-curl -X GET "https://api.projectname.com/v1/data" \
-  -H "Authorization: Bearer YOUR_TOKEN"
-
-# POST request
-curl -X POST "https://api.projectname.com/v1/process" \
-  -H "Content-Type: application/json" \
-  -H "Authorization: Bearer YOUR_TOKEN" \
-  -d '{"input": "sample data", "format": "json"}'
-📸 Screenshots
+🛠️ Tech Arsenal
 <div align="center">
-Dashboard Overview
-Show Image
-
-Mobile Interface
-<img src="https://via.placeholder.com/400x600/667eea/ffffff?text=Mobile+View" alt="Mobile Interface" width="300">
-Analytics Page
-Show Image
-
-</div>
-🧪 Testing
-Run the test suite to ensure everything works correctly:
-
-bash
-# Run all tests
-npm test
-
-# Run with coverage
-npm run test:coverage
-
-# Run specific test files
-npm test -- --grep "authentication"
-
-# Run tests in watch mode
-npm run test:watch
-Test Coverage
-Unit Tests: ✅ 245 passing
-Integration Tests: ✅ 89 passing
-End-to-End Tests: ✅ 156 passing
-Overall Coverage: 96%
-📦 Deployment
-Production Build
-bash
-# Create production build
-npm run build
-
-# Preview production build
-npm run preview
-
-# Deploy to your server
-npm run deploy
-Deploy with Docker
-dockerfile
-# Dockerfile example
-FROM node:18-alpine
-WORKDIR /app
-COPY package*.json ./
-RUN npm ci --only=production
-COPY . .
-EXPOSE 3000
-CMD ["npm", "start"]
-Environment Variables
-Variable	Description	Required	Default
-DATABASE_URL	PostgreSQL connection string	✅	-
-API_KEY	External API key	✅	-
-PORT	Server port	❌	3000
-NODE_ENV	Environment mode	❌	development
-🤝 Contributing
-Contributions are what make the open source community amazing! Any contributions you make are greatly appreciated.
-
-Fork the Project
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-Push to the Branch (git push origin feature/AmazingFeature)
-Open a Pull Request
-Development Guidelines
-Follow the existing code style
-Write tests for new features
-Update documentation as needed
-Make sure all tests pass before submitting
-📋 Roadmap
- ✅ Core functionality implementation
- ✅ User authentication system
- ✅ Basic dashboard interface
- 🔄 Advanced analytics features
- 📱 Mobile application
- 🤖 AI-powered recommendations
- 🌐 Multi-language support
- 📊 Advanced reporting tools
-See the open issues for a full list of proposed features and known issues.
-
-📄 License
-Distributed under the MIT License. See LICENSE for more information.
-
-MIT License
-
-Copyright (c) 2024 Your Name
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-🆘 Support
-If you have any questions or need help, please don't hesitate to reach out:
-
-📧 Email: your.email@example.com
-💬 Discord: Join our community
-🐛 Issues: GitHub Issues
-📖 Documentation: Full docs
-🙏 Acknowledgments
-Awesome Library - Core functionality inspiration
-Design System - UI/UX guidelines
-Open Source Community - For making this possible
-Contributors - All amazing people who contributed
+Frontend Magic ✨
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,materialui,tailwind,sass,bootstrap" alt="Frontend Skills" /> </p>
+Backend Power ⚡
+<p> <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mysql,postgresql,mongodb,redis" alt="Backend Skills" /> </p>
+Tools & Platforms 🔧
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,docker,postman,npm" alt="Tools & Platforms" /> </p> </div>
+📊 GitHub Analytics
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=priyakumari1209&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyakumari1209&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" /> </picture> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=priyakumari1209&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyakumari1209&layout=compact&langs_count=8&theme=default&hide_border=true" alt="Top Languages" /> </picture> </div> <div align="center" style="margin-top: 20px;"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=priyakumari1209&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyakumari1209&theme=default&hide_border=true" alt="GitHub Streak" /> </picture> </div>
+🏆 Achievements & Activity
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=priyakumari1209&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" /> </div> <div align="center" style="margin-top: 30px;"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyakumari1209&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&hide_border=true" alt="Contribution Graph" /> </div>
+🎨 Featured Projects
+<div align="center"> <table style="border: none;"> <tr> <td style="border: none; padding: 15px;"> <a href="https://github.com/priyakumari1209/project1"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyakumari1209&repo=project1&theme=tokyonight&hide_border=true" alt="Project 1" /> </a> </td> <td style="border: none; padding: 15px;"> <a href="https://github.com/priyakumari1209/project2"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyakumari1209&repo=project2&theme=tokyonight&hide_border=true" alt="Project 2" /> </a> </td> </tr> </table> </div>
 <div align="center">
-⭐ Show your support
-Give a ⭐️ if this project helped you!
+💫 Philosophy
+"Chai in my cup, clean code on my screen — building thoughtful, beautiful components every day" ✨
+
+🦋 From cocoon to butterfly — transforming ideas into digital reality
 
 Show Image
 Show Image
+Show Image
 
-⬆ Back to Top
-
-Made with ❤️ by Your Name
-
-</div>
+</div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&reversal=false&textBg=false" alt="Footer Wave" /> </div>
+<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Peter%20Drucker" alt="Quote" /> </div>
