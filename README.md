@@ -8,7 +8,7 @@
 📧 Email: mishrapriya15987@gmail.com
 🌐 Portfolio: View My Work
 💭 Ask Me About: Laravel magic, React hooks, TypeScript wizardry
-</td> <td style="border: none; text-align: center; padding: 20px;" width="45%"> <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/284615870/original/433e5854b95346083a296bf619257f067271e0e0/be-your-full-stack-developer-react-nextjs-laravel-nodejs.png" alt="Full Stack Developer" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(78, 205, 196, 0.3);" />
+</td> <td siginal/433e5854b95346083a296bf619257f067271e0e0/be-your-full-stack-developer-react-nextjs-laravel-nodejs.png" alt="Full Stack Developer" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(78, 205, 196, 0.3);" />
 <br><br>
 
 🎨 "Code is poetry written in logic"
