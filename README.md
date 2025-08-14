@@ -1,11 +1,19 @@
 🦋 Hi there, I'm Priya!
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&pause=1500&color=FF6B6B,4ECDC4,45B7D1,96CEB4,FECA57,FF9FF3&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+%F0%9F%9A%80;Laravel+%7C+React+%7C+TypeScript;Building+Beautiful+Digital+Experiences+%E2%9C%A8;Chai+Enthusiast+%E2%98%95+%7C+Code+Artist+%F0%9F%8E%A8;Transforming+Ideas+into+Reality+%F0%9F%A6%8B" alt="Typing SVG" /> </div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,11,24&height=120&section=header&text=Welcome%20to%20my%20Digital%20Garden&fontSize=30&fontColor=fff&animation=fadeIn" /> </div> <div align="center"> <img src="https://github.com/user-attachments/assets/a96549fe-8966-472e-b952-616f3a6bcf63" alt="Profile Banner" style="border-radius: 20px; box-shadow: 0 8px 32px rgba(168, 85, 247, 0.3); border: 2px solid #A855F7;" width="80%" /> <br><br> <img src="https://komarev.com/ghpvc/?username=priyakumari1209&label=Digital%20Visitors&color=blueviolet&style=for-the-badge&labelColor=2D3748" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/priyakumari1209?label=Followers&style=for-the-badge&color=4ECDC4&labelColor=2D3748" alt="Followers" /> </div>
+🌟 About My Journey
+<table style="border-collapse: collapse; border: none; width: 100%;"> <tr> <td style="border: none; padding: 20px;" width="55%">
+🚀 Currently Crafting
 🌱 Deep Diving: Laravel ecosystem & advanced React patterns
 🔭 Building: Full-stack applications with modern architecture
-💡 Passionat
-☕ Da
+💡 Passionate About: Clean code, beautiful UIs, and seamless UX
+☕ Daily Ritual: Chai-fueled coding sessions at sunrise
+🎯 Mission: Bridging design and functionality
+💬 Let's Connect!
 🤝 Collaboration: Always open to exciting projects
-📧 Email: mishrapriya15987@gmail.067271e0e0/be-your-full-stack-developer-react-nextjs-laravel-nodejs.png" alt="Full Stack Developer" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(78, 205, 196, 0.3);" />
+📧 Email: mishrapriya15987@gmail.com
+🌐 Portfolio: View My Work
+💭 Ask Me About: Laravel magic, React hooks, TypeScript wizardry
+</td> <td style="border: none; text-align: center; padding: 20px;" width="45%"> <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/284615870/original/433e5854b95346083a296bf619257f067271e0e0/be-your-full-stack-developer-react-nextjs-laravel-nodejs.png" alt="Full Stack Developer" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(78, 205, 196, 0.3);" />
 <br><br>
 
 🎨 "Code is poetry written in logic"
