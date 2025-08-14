@@ -1,5 +1,5 @@
 🦋 Hi there, I'm Priya!
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&pause=1500&color=FF6B6B,4ECDC4,45B7D1,96CEB4,FECA57,FF9FF3&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+%F0%9F%9A%80;Laravel+%7C+React+%7C+TypeScript;Building+Beautiful+Digital+Experiences+%E2%9C%A8;Chai+Enthusiast+%E2%98%95+%7C+Code+Artist+%F0%9F%8E%A8;Transforming+Ideas+into+Reality+%F0%9F%A6%8B" alt="Typing SVG" /> </div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,11,24&height=120&section=header&text=Welcome%20to%20my%20Digital%20Garden&fontSize=30&f
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&
 🌱 Deep Diving: Laravel ecosystem & advanced React patterns
 🔭 Building: Full-stack applications with modern architecture
 💡 Passionat
