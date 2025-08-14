@@ -3,9 +3,7 @@
 🌱 Deep Diving: Laravel ecosystem & advanced React patterns
 🔭 Building: Full-stack applications with modern architecture
 💡 Passionate About: Clean code, beautiful UIs, and seamless UX
-☕ Daily Ritual: Chai-fueled coding sessions at sunrise
-🎯 Mission: Bridging design and functionality
-💬 Let's Connect!
+☕ Da
 🤝 Collaboration: Always open to exciting projects
 📧 Email: mishrapriya15987@gmail.com
 🌐 Portfolio: View My Work
