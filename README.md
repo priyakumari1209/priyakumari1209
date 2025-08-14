@@ -5,10 +5,7 @@
 💡 Passionat
 ☕ Da
 🤝 Collaboration: Always open to exciting projects
-📧 Email: mishrapriya15987@gmail.com
-🌐 Portfolio: View My Work
-💭 Ask Me About: Laravel magic, React hooks, TypeScript wizardry
-</td> <td siginal/433e5854b95346083a296bf619257f067271e0e0/be-your-full-stack-developer-react-nextjs-laravel-nodejs.png" alt="Full Stack Developer" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(78, 205, 196, 0.3);" />
+📧 Email: mishrapriya15987@gmail.067271e0e0/be-your-full-stack-developer-react-nextjs-laravel-nodejs.png" alt="Full Stack Developer" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(78, 205, 196, 0.3);" />
 <br><br>
 
 🎨 "Code is poetry written in logic"
