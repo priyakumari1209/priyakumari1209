@@ -1,258 +1,264 @@
-<!-- Professional Header with Blue Tones -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=600&size=55&duration=2800&pause=1000&color=4A90E2&center=true&vCenter=true&width=950&lines=Welcome!+I'm+Priya+Kumari;Full+Stack+Developer;Laravel+%7C+React+Specialist" alt="Professional Header" />
-</h1>
+# 🌟 Priya Kumari | Full Stack Developer
 
-<!-- Clean Profile Design -->
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/a96549fe-8966-472e-b952-616f3a6bcf63" alt="Priya Kumari" width="180" height="180" style="border-radius: 50%; border: 4px solid #4A90E2; box-shadow: 0 8px 32px rgba(74, 144, 226, 0.3);"/>
   
-  <br><br>
-  
-  <!-- Professional Status Badges -->
-  <img src="https://img.shields.io/badge/📍%20Location-Chennai%2C%20India-4A90E2?style=for-the-badge&labelColor=2C3E50" />
-  <img src="https://img.shields.io/badge/💼%20Role-Full%20Stack%20Developer-5B9BD5?style=for-the-badge&labelColor=34495E" />
-  <img src="https://img.shields.io/badge/⚡%20Focus-Laravel%20%2B%20React-6BB6FF?style=for-the-badge&labelColor=2980B9" />
-  <img src="https://img.shields.io/badge/💡%20Status-Open%20to%20Opportunities-7BC0FF?style=for-the-badge&labelColor=3498DB" />
-  
-  <br><br>
-  
-  <!-- Profile Statistics -->
-  <img src="https://komarev.com/ghpvc/?username=priyakumari1209&label=Profile%20Views&color=4A90E2&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/priyakumari1209?label=Followers&style=flat-square&color=5B9BD5&labelColor=2C3E50" alt="Followers" />
-  <img src="https://img.shields.io/badge/Last%20Updated-August%202025-6BB6FF?style=flat-square&labelColor=34495E" alt="Updated" />
+<!-- Animated Wave Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,25:5B9BD5,50:6BB6FF,75:7BC0FF,100:8EC5FF&height=200&section=header&text=Welcome%20to%20My%20Digital%20Space&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Laravel%20%2B%20React%20Specialist&descAlignY=55&descSize=18" />
+
+<!-- Profile Card with Glassmorphism Effect -->
+<table>
+<tr>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/a96549fe-8966-472e-b952-616f3a6bcf63" alt="Priya Kumari" width="200" height="200" style="border-radius: 25px; border: 3px solid #4A90E2; filter: drop-shadow(0 10px 20px rgba(74, 144, 226, 0.3));"/>
+
+<br><br>
+
+<!-- Animated Role Display -->
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1500&color=2C3E50&center=true&vCenter=true&width=600&lines=💻+Full+Stack+Developer;🚀+Laravel+%26+React+Expert;🎨+UI%2FUX+Enthusiast;📍+Chennai%2C+Tamil+Nadu;✨+Crafting+Digital+Experiences" alt="Animated Roles" />
+
+<br>
+
+<!-- Dynamic Status Badges -->
+<img src="https://img.shields.io/badge/🔥_Currently_Working_On-E--Commerce_Platform-4A90E2?style=for-the-badge&labelColor=2C3E50&color=gradient" />
+<br>
+<img src="https://img.shields.io/badge/💡_Open_To-Freelance_Projects-5B9BD5?style=for-the-badge&labelColor=34495E" />
+<img src="https://img.shields.io/badge/🎯_Specializing_In-Laravel_+_React-6BB6FF?style=for-the-badge&labelColor=2980B9" />
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
 
-## 💼 **Professional Overview**
+## 🎭 **Developer Profile**
 
 <table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
-### 👨‍💻 **About Me**
-```javascript
-const developer = {
-  name: "Priya Kumari",
-  location: "Chennai, Tamil Nadu, India",
-  role: "Full Stack Developer",
-  specialization: ["Laravel", "React", "TypeScript"],
-  passion: "Clean Architecture & User Experience",
-  approach: "Quality-driven Development"
+### 🚀 **Quick Stats**
+```typescript
+interface Developer {
+  name: "Priya Kumari";
+  location: "Chennai, Tamil Nadu 🇮🇳";
+  role: "Full Stack Developer";
+  experience: "Building scalable web solutions";
+  passion: "Clean architecture & pixel-perfect UIs";
+  availability: "Open for collaboration ✨";
+}
+
+const currentFocus = {
+  frontend: ["React", "Next.js", "TypeScript"],
+  backend: ["Laravel", "PHP", "Node.js"],
+  database: ["MySQL", "MongoDB"],
+  tools: ["Docker", "Git", "VS Code"]
 };
 ```
 
-### 🎯 **Current Projects**
-```yaml
-active_projects:
-  - project: "E-Commerce Platform"
-    technologies: ["Laravel", "React", "MySQL"]
-    status: "In Development"
-    completion: "75%"
-    
-  - project: "Task Management System"
-    technologies: ["Next.js", "TypeScript", "MongoDB"] 
-    status: "Design Phase"
-    completion: "40%"
-    
-  - project: "Personal Portfolio"
-    technologies: ["React", "Tailwind CSS", "Framer Motion"]
-    status: "Planning"
-    completion: "25%"
-```
-
-### 📞 **Contact Information**
-```json
-{
-  "email": "mishrapriya15987@gmail.com",
-  "portfolio": "https://priya-developer.com",
-  "availability": "Available for freelance projects",
-  "timezone": "IST (GMT+5:30)",
-  "response_time": "Within 24 hours",
-  "collaboration": "Open to opportunities"
-}
-```
-
-</td>
-<td width="40%" align="center" valign="top">
-
-### 📊 **GitHub Statistics**
-<img src="https://github-readme-stats.vercel.app/api?username=priyakumari1209&show_icons=true&theme=default&hide_border=true&bg_color=F8FAFE&title_color=2C3E50&text_color=34495E&icon_color=4A90E2&border_radius=10" width="100%" />
-
-<br><br>
-
-### 🎨 **Daily Focus**
-<img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=16&duration=2000&pause=2500&color=4A90E2&center=true&width=320&lines=Building+Scalable+Applications;Writing+Clean+Code;Learning+New+Technologies;Solving+Complex+Problems;Enhancing+User+Experience" alt="Daily Focus" />
-
-<br><br>
-
-### 📈 **Coding Activity**
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=priyakumari1209&theme=default&hide_border=true&bg_color=F8FAFE&title_color=2C3E50&text_color=34495E&border_radius=10" width="100%" />
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ **Technical Skills**
-
+### 📬 **Get In Touch**
 <div align="center">
 
-### 🎨 **Frontend Development**
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=react" width="50"/>
-<br><strong>React</strong>
-<br><sub style="color: #4A90E2;">Advanced</sub>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=nextjs" width="50"/>
-<br><strong>Next.js</strong>
-<br><sub style="color: #5B9BD5;">Intermediate</sub>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=ts" width="50"/>
-<br><strong>TypeScript</strong>
-<br><sub style="color: #6BB6FF;">Proficient</sub>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=tailwind" width="50"/>
-<br><strong>Tailwind CSS</strong>
-<br><sub style="color: #4A90E2;">Advanced</sub>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=js" width="50"/>
-<br><strong>JavaScript</strong>
-<br><sub style="color: #5B9BD5;">Expert</sub>
-</td>
-</tr>
-</table>
+[![Email](https://img.shields.io/badge/📧_mishrapriya15987@gmail.com-4A90E2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2C3E50)](mailto:mishrapriya15987@gmail.com)
 
-### ⚙️ **Backend Development**
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=laravel" width="50"/>
-<br><strong>Laravel</strong>
-<br><sub style="color: #4A90E2;">Expert</sub>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=php" width="50"/>
-<br><strong>PHP</strong>
-<br><sub style="color: #5B9BD5;">Advanced</sub>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=nodejs" width="50"/>
-<br><strong>Node.js</strong>
-<br><sub style="color: #6BB6FF;">Intermediate</sub>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=mysql" width="50"/>
-<br><strong>MySQL</strong>
-<br><sub style="color: #4A90E2;">Advanced</sub>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=mongodb" width="50"/>
-<br><strong>MongoDB</strong>
-<br><sub style="color: #5B9BD5;">Intermediate</sub>
-</td>
-</tr>
-</table>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Coming_Soon-5B9BD5?style=for-the-badge&logo=vercel&logoColor=white&labelColor=34495E)](#)
 
-### 🔧 **Development Tools**
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=git" width="50"/>
-<br><strong>Git</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=vscode" width="50"/>
-<br><strong>VS Code</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=docker" width="50"/>
-<br><strong>Docker</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=figma" width="50"/>
-<br><strong>Figma</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=vercel" width="50"/>
-<br><strong>Vercel</strong>
-</td>
-</tr>
-</table>
+[![Status](https://img.shields.io/badge/💼_Available_for_Projects-6BB6FF?style=for-the-badge&logo=freelancer&logoColor=white&labelColor=2980B9)](#)
 
 </div>
 
----
+</td>
+<td width="50%" valign="top">
 
-## 📈 **GitHub Analytics**
-
+### 📊 **GitHub Insights**
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=priyakumari1209&show_icons=true&theme=default&hide_border=true&bg_color=F8FAFE&title_color=2C3E50&text_color=34495E&icon_color=4A90E2&border_radius=12" />
-</td>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyakumari1209&layout=compact&theme=default&hide_border=true&bg_color=F8FAFE&title_color=2C3E50&text_color=34495E&border_radius=12&langs_count=8" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyakumari1209&show_icons=true&theme=transparent&hide_border=true&title_color=4A90E2&text_color=2C3E50&icon_color=5B9BD5&bg_color=00000000&border_radius=15&custom_title=Priya's%20GitHub%20Analytics)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyakumari1209&layout=donut&theme=transparent&hide_border=true&title_color=4A90E2&text_color=2C3E50&bg_color=00000000&border_radius=15&langs_count=6)
+
+</div>
+
 </td>
 </tr>
 </table>
 
+---
+
+## 🛠️ **Tech Arsenal**
+
+<div align="center">
+
+### 🎨 **Frontend Mastery**
+<table>
+<tr>
+<td align="center" width="140" style="padding: 20px;">
+<div style="background: linear-gradient(135deg, #E3F2FD, #BBDEFB); border-radius: 15px; padding: 20px; margin: 10px;">
+<img src="https://skillicons.dev/icons?i=react" width="60"/>
+<br><br>
+<strong style="color: #2C3E50;">React</strong>
 <br>
+<img src="https://img.shields.io/badge/Expert-4A90E2?style=flat&labelColor=transparent" />
+</div>
+</td>
+<td align="center" width="140" style="padding: 20px;">
+<div style="background: linear-gradient(135deg, #F3E5F5, #E1BEE7); border-radius: 15px; padding: 20px; margin: 10px;">
+<img src="https://skillicons.dev/icons?i=nextjs" width="60"/>
+<br><br>
+<strong style="color: #2C3E50;">Next.js</strong>
+<br>
+<img src="https://img.shields.io/badge/Advanced-5B9BD5?style=flat&labelColor=transparent" />
+</div>
+</td>
+<td align="center" width="140" style="padding: 20px;">
+<div style="background: linear-gradient(135deg, #E8F5E8, #C8E6C9); border-radius: 15px; padding: 20px; margin: 10px;">
+<img src="https://skillicons.dev/icons?i=ts" width="60"/>
+<br><br>
+<strong style="color: #2C3E50;">TypeScript</strong>
+<br>
+<img src="https://img.shields.io/badge/Proficient-6BB6FF?style=flat&labelColor=transparent" />
+</div>
+</td>
+<td align="center" width="140" style="padding: 20px;">
+<div style="background: linear-gradient(135deg, #FFF3E0, #FFE0B2); border-radius: 15px; padding: 20px; margin: 10px;">
+<img src="https://skillicons.dev/icons?i=tailwind" width="60"/>
+<br><br>
+<strong style="color: #2C3E50;">Tailwind</strong>
+<br>
+<img src="https://img.shields.io/badge/Expert-7BC0FF?style=flat&labelColor=transparent" />
+</div>
+</td>
+</tr>
+</table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyakumari1209&theme=default&hide_border=true&background=F8FAFE&stroke=4A90E2&ring=5B9BD5&fire=6BB6FF&currStreakNum=2C3E50&sideNums=34495E&currStreakLabel=4A90E2&sideLabels=5B9BD5&dates=7F8C8D&border_radius=12" />
+### ⚙️ **Backend Power**
+<table>
+<tr>
+<td align="center" width="140" style="padding: 20px;">
+<div style="background: linear-gradient(135deg, #FFEBEE, #FFCDD2); border-radius: 15px; padding: 20px; margin: 10px;">
+<img src="https://skillicons.dev/icons?i=laravel" width="60"/>
+<br><br>
+<strong style="color: #2C3E50;">Laravel</strong>
+<br>
+<img src="https://img.shields.io/badge/Expert-4A90E2?style=flat&labelColor=transparent" />
+</div>
+</td>
+<td align="center" width="140" style="padding: 20px;">
+<div style="background: linear-gradient(135deg, #F1F8FF, #C6E2FF); border-radius: 15px; padding: 20px; margin: 10px;">
+<img src="https://skillicons.dev/icons?i=php" width="60"/>
+<br><br>
+<strong style="color: #2C3E50;">PHP</strong>
+<br>
+<img src="https://img.shields.io/badge/Advanced-5B9BD5?style=flat&labelColor=transparent" />
+</div>
+</td>
+<td align="center" width="140" style="padding: 20px;">
+<div style="background: linear-gradient(135deg, #F9F9F9, #E5E5E5); border-radius: 15px; padding: 20px; margin: 10px;">
+<img src="https://skillicons.dev/icons?i=nodejs" width="60"/>
+<br><br>
+<strong style="color: #2C3E50;">Node.js</strong>
+<br>
+<img src="https://img.shields.io/badge/Intermediate-6BB6FF?style=flat&labelColor=transparent" />
+</div>
+</td>
+<td align="center" width="140" style="padding: 20px;">
+<div style="background: linear-gradient(135deg, #E0F2F1, #B2DFDB); border-radius: 15px; padding: 20px; margin: 10px;">
+<img src="https://skillicons.dev/icons?i=mysql" width="60"/>
+<br><br>
+<strong style="color: #2C3E50;">MySQL</strong>
+<br>
+<img src="https://img.shields.io/badge/Advanced-7BC0FF?style=flat&labelColor=transparent" />
+</div>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🚀 **Featured Projects**
+## 📈 **Activity Dashboard**
+
+<div align="center">
+
+<!-- GitHub Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyakumari1209&bg_color=F8FAFE&color=4A90E2&line=5B9BD5&point=6BB6FF&area=true&area_color=E3F2FD&title_color=2C3E50&custom_title=Priya's%20Contribution%20Timeline" width="100%" />
+
+<br><br>
+
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyakumari1209&theme=transparent&hide_border=true&background=00000000&stroke=4A90E2&ring=5B9BD5&fire=6BB6FF&currStreakNum=2C3E50&sideNums=34495E&currStreakLabel=4A90E2&sideLabels=5B9BD5&dates=7F8C8D&border_radius=15" />
+
+</div>
+
+---
+
+## 🏗️ **Project Showcase**
 
 <div align="center">
 
 <table width="100%">
 <tr>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/🛒%20E--Commerce-Platform-4A90E2?style=for-the-badge&labelColor=2C3E50" />
+
+### 🛒 **E-Commerce Platform**
+<img src="https://img.shields.io/badge/Status-🚀_Active_Development-27AE60?style=for-the-badge&labelColor=2C3E50" />
+
 <br><br>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-<br><br>
-<strong>Status:</strong> <span style="color: #27AE60;">Active Development</span>
+
+**Tech Stack:**
 <br>
-<strong>Progress:</strong> <span style="color: #4A90E2;">75% Complete</span>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+
+<br><br>
+
+**Progress:** 75% Complete
+<br>
+<img src="https://progress-bar.dev/75/?scale=100&title=Progress&width=200&color=4A90E2&suffix=%" />
+
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/📱%20Task-Manager-5B9BD5?style=for-the-badge&labelColor=34495E" />
+
+### 📱 **Task Management System**
+<img src="https://img.shields.io/badge/Status-🎨_Design_Phase-F39C12?style=for-the-badge&labelColor=34495E" />
+
 <br><br>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-<br><br>
-<strong>Status:</strong> <span style="color: #F39C12;">Design Phase</span>
+
+**Tech Stack:**
 <br>
-<strong>Progress:</strong> <span style="color: #5B9BD5;">40% Complete</span>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+
+<br><br>
+
+**Progress:** 40% Complete
+<br>
+<img src="https://progress-bar.dev/40/?scale=100&title=Progress&width=200&color=5B9BD5&suffix=%" />
+
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/🎨%20Portfolio-Website-6BB6FF?style=for-the-badge&labelColor=2980B9" />
+
+### 🎨 **Portfolio Website**
+<img src="https://img.shields.io/badge/Status-💭_Planning-8E44AD?style=for-the-badge&labelColor=2980B9" />
+
 <br><br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Framer-0055FF?style=flat&logo=framer&logoColor=white" />
-<br><br>
-<strong>Status:</strong> <span style="color: #8E44AD;">Planning</span>
+
+**Tech Stack:**
 <br>
-<strong>Progress:</strong> <span style="color: #6BB6FF;">25% Complete</span>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white" />
+
+<br><br>
+
+**Progress:** 25% Complete
+<br>
+<img src="https://progress-bar.dev/25/?scale=100&title=Progress&width=200&color=6BB6FF&suffix=%" />
+
 </td>
 </tr>
 </table>
@@ -261,49 +267,92 @@ active_projects:
 
 ---
 
-## 🏆 **Achievements**
+## 🏆 **Recognition & Achievements**
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=priyakumari1209&theme=flat&no-frame=true&no-bg=true&margin-w=15&column=6&title=MultiLanguage,Commits,PullRequest,Reviews,Repositories,Stars" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=priyakumari1209&theme=flat&no-frame=true&no-bg=true&margin-w=15&column=7&title=MultiLanguage,Commits,PullRequest,Reviews,Repositories,Stars,Followers&rank=SECRET,SSS,SS,S,AAA,AA,A" />
+
 </div>
 
 ---
 
-## 📫 **Let's Connect**
+## 💭 **Developer Philosophy**
 
 <div align="center">
+
+<table width="100%">
+<tr>
+<td align="center">
+
+### ✨ **My Approach**
+> *"Code is poetry written for machines to understand and humans to admire.*  
+> *I believe in crafting digital experiences that are not just functional,*  
+> *but delightful, accessible, and built to last."*
+
+<br>
+
+**Core Values:**
+- 🎯 **Quality First:** Clean, maintainable code
+- 🚀 **User-Centric:** Experience-driven development  
+- 🔄 **Continuous Learning:** Staying current with tech trends
+- 🤝 **Collaboration:** Building together creates better solutions
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🌐 **Connect & Collaborate**
+
+<div align="center">
+
+### 📞 **Ready to Build Something Amazing?**
+
+<br>
 
 <table>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/📧%20Email-mishrapriya15987@gmail.com-4A90E2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2C3E50" />
+<img src="https://img.shields.io/badge/💌_Let's_Chat-mishrapriya15987@gmail.com-4A90E2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2C3E50" />
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Coming%20Soon-5B9BD5?style=for-the-badge&logo=vercel&logoColor=white&labelColor=34495E" />
+<img src="https://img.shields.io/badge/⏰_Response_Time-Within_24_Hours-5B9BD5?style=for-the-badge&logo=clock&logoColor=white&labelColor=34495E" />
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/💼%20Status-Available%20for%20Projects-6BB6FF?style=for-the-badge&logo=freelancer&logoColor=white&labelColor=2980B9" />
+<img src="https://img.shields.io/badge/🌍_Timezone-IST_(GMT+5:30)-6BB6FF?style=for-the-badge&logo=world&logoColor=white&labelColor=2980B9" />
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/🎯_Available_For-Freelance_&_Full--Time-7BC0FF?style=for-the-badge&logo=handshake&logoColor=white&labelColor=3498DB" />
 </td>
 </tr>
 </table>
 
 <br>
 
-### 💭 **Philosophy**
-> *"Quality is not an act, it is a habit. Clean code and thoughtful design*  
-> *create lasting digital experiences that truly matter."*
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=priyakumari1209&label=Profile%20Views&color=4A90E2&style=for-the-badge&labelColor=2C3E50" alt="Profile Views" />
 
-<br>
+<br><br>
 
-**Thank you for visiting my profile! I'm always excited to collaborate on meaningful projects.**
+**⭐ If you like my work, consider starring my repositories!**
 
 </div>
 
-<!-- Clean Footer -->
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FF,25:7BC0FF,50:6BB6FF,75:5B9BD5,100:4A90E2&height=120&section=footer" />
+
+---
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E3F2FD,25:BBDEFB,50:90CAF9,75:64B5F6,100:42A5F5&height=100&section=footer" />
+<sub>💙 Crafted with passion by Priya Kumari | Last Updated: August 2025</sub>
 </div>
