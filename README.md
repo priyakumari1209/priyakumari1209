@@ -83,7 +83,7 @@
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="60"/>
 <br><strong style="color: #ff0080;">NODE.JS</strong>
-<br><sub style="color: #00ff7f;">Proficient</sub>
+
 </td>
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="60"/>
