@@ -32,21 +32,102 @@
 </tr>
 </table>
 
-🛠️ Tech Arsenal
+## 🛠️ **TECH ARSENAL**
+
 <div align="center">
-Frontend Magic ✨
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,materialui,tailwind" alt="Frontend Skills" />
-</p>
-Backend Power ⚡
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,postgresql,mongodb" alt="Backend Skills" />
-</p>
-Tools & Platforms 🔧
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,docker" alt="Tools & Platforms" />
-</p>
+
+### ⚡ **FRONTEND WEAPONRY**
+<table>
+<tr>
+<td align="center" width="120" style="background: linear-gradient(45deg, #1a1a2e, #16213e);">
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="60"/>
+<br><strong style="color: #00ffff;">REACT</strong>
+<br><sub style="color: #ff0080;">Expert</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="60"/>
+<br><strong style="color: #00ffff;">NEXT.JS</strong>
+<br><sub style="color: #ffd700;">Advanced</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="60"/>
+<br><strong style="color: #00ffff;">TYPESCRIPT</strong>
+<br><sub style="color: #00ff7f;">Proficient</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="60"/>
+<br><strong style="color: #00ffff;">TAILWIND</strong>
+<br><sub style="color: #ff0080;">Expert</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="60"/>
+<br><strong style="color: #00ffff;">JAVASCRIPT</strong>
+<br><sub style="color: #ffd700;">Master</sub>
+</td>
+</tr>
+</table>
+
+### 🔥 **BACKEND ARSENAL**
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="60"/>
+<br><strong style="color: #ff0080;">LARAVEL</strong>
+<br><sub style="color: #00ffff;">Specialist</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=php&theme=dark" width="60"/>
+<br><strong style="color: #ff0080;">PHP</strong>
+<br><sub style="color: #ffd700;">Advanced</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="60"/>
+<br><strong style="color: #ff0080;">NODE.JS</strong>
+<br><sub style="color: #00ff7f;">Proficient</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="60"/>
+<br><strong style="color: #ff0080;">MYSQL</strong>
+<br><sub style="color: #00ffff;">Expert</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="60"/>
+<br><strong style="color: #ff0080;">MONGODB</strong>
+<br><sub style="color: #ffd700;">Advanced</sub>
+</td>
+</tr>
+</table>
+
+### 💎 **POWER TOOLS**
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="60"/>
+<br><strong style="color: #ffd700;">GIT</strong>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="60"/>
+<br><strong style="color: #ffd700;">VS CODE</strong>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="60"/>
+<br><strong style="color: #ffd700;">DOCKER</strong>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" width="60"/>
+<br><strong style="color: #ffd700;">FIGMA</strong>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="60"/>
+<br><strong style="color: #ffd700;">VERCEL</strong>
+</td>
+</tr>
+</table>
+
 </div>
+
+---
+
 
 📊 GitHub Analytics
 <div align="center">
