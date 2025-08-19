@@ -1,4 +1,4 @@
-🦋 Hi there, I'm Priya!
+[🦋 Hi there, I'm Priya!
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E4A853,50:DA6B73,100:654EA3&height=200&section=header&text=Full%20Stack%20Developer&fontSize=60&fontColor=fff&animation=twinkling&fontAlign=50&fontAlignY=35" alt="Header"/> </div> <div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=DA6B73&center=true&vCenter=true&multiline=true&width=900&height=100&lines=🚀+Laravel+%7C+React+%7C+TypeScript;✨+Building+Beautiful+Digital+Experiences;💡+Clean+Architecture+%26+Modern+Design" alt="Typing Animation" /> </div> <div align="center"> <img src="https://github.com/user-attachments/assets/a96549fe-8966-472e-b952-616f3a6bcf63" alt="Profile Banner" width="800" height="300"/> <br><br> <img src="https://komarev.com/ghpvc/?username=priyakumari1209&label=Profile%20Views&color=DA6B73&style=for-the-badge&labelColor=654EA3" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/priyakumari1209?label=Followers&style=for-the-badge&color=E4A853&labelColor=654EA3" alt="Followers" /> </div>
 🌟 About Me
 <table width="100%" style="border: none;"> <tr> <td width="50%" valign="top">
@@ -58,3 +58,4 @@ Portfolio Website	System Design	Build SaaS Product
 ✨ Let's build something amazing together! ✨
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:654EA3,50:DA6B73,100:E4A853&height=120&section=footer&reversal=false&textBg=false" alt="Footer"/> </div>
+](https://youtu.be/DgRrrOt0Vr8?si=IO_r__0M6pqKBSbW)
