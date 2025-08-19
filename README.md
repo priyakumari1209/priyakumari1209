@@ -42,27 +42,27 @@
 <td align="center" width="120" style="background: linear-gradient(45deg, #1a1a2e, #16213e);">
 <img src="https://skillicons.dev/icons?i=react&theme=dark" width="60"/>
 <br><strong style="color: #00ffff;">REACT</strong>
-<br><sub style="color: #ff0080;">Expert</sub>
+
 </td>
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="60"/>
 <br><strong style="color: #00ffff;">NEXT.JS</strong>
-<br><sub style="color: #ffd700;">Advanced</sub>
+
 </td>
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="60"/>
 <br><strong style="color: #00ffff;">TYPESCRIPT</strong>
-<br><sub style="color: #00ff7f;">Proficient</sub>
+
 </td>
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="60"/>
 <br><strong style="color: #00ffff;">TAILWIND</strong>
-<br><sub style="color: #ff0080;">Expert</sub>
+
 </td>
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=js&theme=dark" width="60"/>
 <br><strong style="color: #00ffff;">JAVASCRIPT</strong>
-<br><sub style="color: #ffd700;">Master</sub>
+
 </td>
 </tr>
 </table>
@@ -73,12 +73,12 @@
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="60"/>
 <br><strong style="color: #ff0080;">LARAVEL</strong>
-<br><sub style="color: #00ffff;">Specialist</sub>
+
 </td>
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=php&theme=dark" width="60"/>
 <br><strong style="color: #ff0080;">PHP</strong>
-<br><sub style="color: #ffd700;">Advanced</sub>
+
 </td>
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="60"/>
@@ -88,12 +88,12 @@
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="60"/>
 <br><strong style="color: #ff0080;">MYSQL</strong>
-<br><sub style="color: #00ffff;">Expert</sub>
+
 </td>
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="60"/>
 <br><strong style="color: #ff0080;">MONGODB</strong>
-<br><sub style="color: #ffd700;">Advanced</sub>
+
 </td>
 </tr>
 </table>
