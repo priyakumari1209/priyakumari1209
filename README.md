@@ -8,26 +8,7 @@
 </div>
 
 
-🌟 About Me
-<table style="border-collapse: collapse; border: none;">
-<tr>
-<td style="border: none;" width="50%">
-🚀 Currently on a Journey
-
-🌱 Learning: Laravel as backend powerhouse
-🔭 Building: Full-stack applications with modern tech
-💡 Passion: Clean code architecture & beautiful UIs
-☕ Fuel: Chai & curiosity-driven development
-
-🎯 Let's Connect & Collaborate!
-
-💬 Ask me about: Laravel, React, JavaScript, TypeScript
-📧 Reach me: mishrapriya15987@gmail.com
-🌐 Portfolio: View My Work
-
-</td>
-<td style="border: none; text-align: center;" width="50%">
-<img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/284615870/original/433e5854b95346083a296bf619257f067271e0e0/be-your-full-stack-developer-react-nextjs-laravel-nodejs.png" alt="Full Stack Developer" />
+🌟 About Meres.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/284615870/original/433e5854b95346083a296bf619257f067271e0e0/be-your-full-stack-developer-react-nextjs-laravel-nodejs.png" alt="Full Stack Developer" />
 </td>
 </tr>
 </table>
