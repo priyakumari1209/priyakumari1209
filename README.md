@@ -4,19 +4,7 @@
 </div>
 
 <!-- Particle Effect for Extra Magic -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" alt="Particle Effect" />
-</div>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/a96549fe-8966-472e-b952-616f3a6bcf63" alt="Profile Banner" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(168, 85, 247, 0.3); transform: scale(1.05); transition: transform 0.3s ease;" />
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=priyakumari1209&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  <p style="font-size: 14px; color: #A855F7; margin-top: 10px;">🌟 <strong>Visitor #X: Welcome to my digital garden!</strong> 🌟</p>
-</div>
-
-## 🌟 About Me
-<table style="border-collapse: collapse; border: none; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+<div align="center">ackground: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 <tr>
 <td style="border: none; padding: 20px;" width="50%">
 🚀 **Currently on a Journey**<br>
