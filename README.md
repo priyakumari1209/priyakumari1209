@@ -1,296 +1,163 @@
-
-# 🚀 Priya Kumari - Full Stack Developer
-
+🦋 Hi there, I'm Priya!
 <div align="center">
-
-<!-- Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=940&lines=👋+Hello+World!+I'm+Priya;💻+Full+Stack+Developer+%F0%9F%9A%80;🚀+Laravel+%7C+React+%7C+TypeScript;✨+Crafting+Digital+Experiences;🎯+Clean+Code+Enthusiast" alt="Typing SVG" />
-
-<!-- Profile Views -->
-<div style="margin: 20px 0;">
-  <img src="https://komarev.com/ghpvc/?username=priyakumari1209&label=Profile%20Views&color=A855F7&style=for-the-badge&labelColor=1e1b2e" alt="Profile Views" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+%F0%9F%9A%80;Laravel+%7C+React+%7C+TypeScript;Building+Beautiful+Digital+Experiences+%E2%9C%A8" alt="Typing SVG" />
+</div>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a96549fe-8966-472e-b952-616f3a6bcf63" alt="Profile Banner" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <img src="https://komarev.com/ghpvc/?username=priyakumari1209&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
 
-</div>
-
-<!-- About Section -->
-<div align="center">
-
-## 🌟 **About Me**
-
-<table style="border: none; width: 100%; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 25px; padding: 30px; box-shadow: 0 20px 40px rgba(102, 126, 234, 0.3); margin: 20px 0;">
+🌟 About Me
+<table style="border-collapse: collapse; border: none;">
 <tr>
-<td style="border: none; padding: 25px;" width="60%">
+<td style="border: none;" width="50%">
+🚀 Currently on a Journey
 
-### 🎯 **My Journey**
+🌱 Learning: Laravel as backend powerhouse
+🔭 Building: Full-stack applications with modern tech
+💡 Passion: Clean code architecture & beautiful UIs
+☕ Fuel: Chai & curiosity-driven development
 
-<div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); padding: 25px; border-radius: 20px; border: 1px solid rgba(255, 255, 255, 0.2); margin-bottom: 20px;">
-  
-🚀 **Passionate Full Stack Developer** with expertise in modern web technologies. I love transforming complex problems into simple, beautiful designs.
+🎯 Let's Connect & Collaborate!
 
-💡 **Currently focused on**: Building scalable applications with Laravel backend and React frontend
-
-🎨 **Design Philosophy**: Clean code, intuitive UX, and pixel-perfect implementations
-
-</div>
-
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin-top: 20px;">
-  <div style="background: rgba(255, 255, 255, 0.1); padding: 15px; border-radius: 15px; text-align: center;">
-    <strong>🌱 Learning</strong><br>Advanced Laravel
-  </div>
-  <div style="background: rgba(255, 255, 255, 0.1); padding: 15px; border-radius: 15px; text-align: center;">
-    <strong>🔭 Building</strong><br>Full-Stack Apps
-  </div>
-  <div style="background: rgba(255, 255, 255, 0.1); padding: 15px; border-radius: 15px; text-align: center;">
-    <strong>💡 Passion</strong><br>Clean Architecture
-  </div>
-  <div style="background: rgba(255, 255, 255, 0.1); padding: 15px; border-radius: 15px; text-align: center;">
-    <strong>☕ Fuel</strong><br>Chai & Code
-  </div>
-</div>
+💬 Ask me about: Laravel, React, JavaScript, TypeScript
+📧 Reach me: mishrapriya15987@gmail.com
+🌐 Portfolio: View My Work
 
 </td>
-<td style="border: none; padding: 25px; text-align: center;" width="40%">
+<td style="border: none; text-align: center;" width="50%">
+<img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/284615870/original/433e5854b95346083a296bf619257f067271e0e0/be-your-full-stack-developer-react-nextjs-laravel-nodejs.png" alt="Full Stack Developer" />
+</td>
+</tr>
+</table>
 
-### 📬 **Let's Connect**
+## 🛠️ **TECH ARSENAL**
 
-<div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); padding: 25px; border-radius: 20px; border: 1px solid rgba(255, 255, 255, 0.2); height: 100%; display: flex; flex-direction: column; justify-content: center;">
+<div align="center">
 
-💬 **Ask me about**:<br>
-Laravel • React • TypeScript • JavaScript
+### ⚡ **FRONTEND WEAPONRY**
+<table>
+<tr>
+<td align="center" width="120" style="background: linear-gradient(45deg, #1a1a2e, #16213e);">
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="60"/>
+<br><strong style="color: #00ffff;">REACT</strong>
 
-📧 **Email**:<br>
-mishrapriya15987@gmail.com
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="60"/>
+<br><strong style="color: #00ffff;">NEXT.JS</strong>
 
-🌐 **Portfolio**:<br>
-Coming Soon!
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="60"/>
+<br><strong style="color: #00ffff;">TYPESCRIPT</strong>
 
-<div style="margin-top: 20px;">
-  <a href="mailto:mishrapriya15987@gmail.com" style="background: linear-gradient(45deg, #FF6B6B, #FF8E53); padding: 10px 20px; border-radius: 25px; color: white; text-decoration: none; font-weight: bold; display: inline-block; margin: 5px;">
-    📧 Email Me
-  </a>
-</div>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="60"/>
+<br><strong style="color: #00ffff;">TAILWIND</strong>
 
-</div>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="60"/>
+<br><strong style="color: #00ffff;">JAVASCRIPT</strong>
 
+</td>
+</tr>
+</table>
+
+### 🔥 **BACKEND ARSENAL**
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="60"/>
+<br><strong style="color: #ff0080;">LARAVEL</strong>
+
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=php&theme=dark" width="60"/>
+<br><strong style="color: #ff0080;">PHP</strong>
+
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="60"/>
+<br><strong style="color: #ff0080;">NODE.JS</strong>
+
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="60"/>
+<br><strong style="color: #ff0080;">MYSQL</strong>
+
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="60"/>
+<br><strong style="color: #ff0080;">MONGODB</strong>
+
+</td>
+</tr>
+</table>
+
+### 💎 **POWER TOOLS**
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="60"/>
+<br><strong style="color: #ffd700;">GIT</strong>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="60"/>
+<br><strong style="color: #ffd700;">VS CODE</strong>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="60"/>
+<br><strong style="color: #ffd700;">DOCKER</strong>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" width="60"/>
+<br><strong style="color: #ffd700;">FIGMA</strong>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="60"/>
+<br><strong style="color: #ffd700;">VERCEL</strong>
 </td>
 </tr>
 </table>
 
 </div>
 
-<!-- Tech Stack Section -->
-<div align="center">
-
-## 🛠️ **My Tech Stack**
-
-### ⚡ **Frontend Development**
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 25px; margin: 20px 0; box-shadow: 0 15px 35px rgba(102, 126, 234, 0.3);">
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 20px; justify-items: center;">
-
-<div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); padding: 20px; border-radius: 20px; text-align: center; transition: transform 0.3s ease; border: 1px solid rgba(255, 255, 255, 0.2);">
-<img src="https://skillicons.dev/icons?i=react" width="50" style="filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));"/>
-<br>
-<strong style="color: white; font-size: 14px;">React</strong>
-</div>
-
-<div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); padding: 20px; border-radius: 20px; text-align: center; transition: transform 0.3s ease; border: 1px solid rgba(255, 255, 255, 0.2);">
-<img src="https://skillicons.dev/icons?i=nextjs" width="50" style="filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));"/>
-<br>
-<strong style="color: white; font-size: 14px;">Next.js</strong>
-</div>
-
-<div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); padding: 20px; border-radius: 20px; text-align: center; transition: transform 0.3s ease; border: 1px solid rgba(255, 255, 255, 0.2);">
-<img src="https://skillicons.dev/icons?i=ts" width="50" style="filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));"/>
-<br>
-<strong style="color: white; font-size: 14px;">TypeScript</strong>
-</div>
-
-<div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); padding: 20px; border-radius: 20px; text-align: center; transition: transform 0.3s ease; border: 1px solid rgba(255, 255, 255, 0.2);">
-<img src="https://skillicons.dev/icons?i=tailwind" width="50" style="filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));"/>
-<br>
-<strong style="color: white; font-size: 14px;">Tailwind</strong>
-</div>
-
-<div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); padding: 20px; border-radius: 20px; text-align: center; transition: transform 0.3s ease; border: 1px solid rgba(255, 255, 255, 0.2);">
-<img src="https://skillicons.dev/icons?i=js" width="50" style="filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));"/>
-<br>
-<strong style="color: white; font-size: 14px;">JavaScript</strong>
-</div>
-
-</div>
-</div>
-
-### 🔥 **Backend Development**
-<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 30px; border-radius: 25px; margin: 20px 0; box-shadow: 0 15px 35px rgba(240, 147, 251, 0.3);">
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 20px; justify-items: center;">
-
-<div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); padding: 20px; border-radius: 20px; text-align: center; transition: transform 0.3s ease; border: 1px solid rgba(255, 255, 255, 0.2);">
-<img src="https://skillicons.dev/icons?i=laravel" width="50" style="filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));"/>
-<br>
-<strong style="color: white; font-size: 14px;">Laravel</strong>
-</div>
-
-<div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); padding: 20px; border-radius: 20px; text-align: center; transition: transform 0.3s ease; border: 1px solid rgba(255, 255, 255, 0.2);">
-<img src="https://skillicons.dev/icons?i=php" width="50" style="filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));"/>
-<br>
-<strong style="color: white; font-size: 14px;">PHP</strong>
-</div>
-
-<div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); padding: 20px; border-radius: 20px; text-align: center; transition: transform 0.3s ease; border: 1px solid rgba(255, 255, 255, 0.2);">
-<img src="https://skillicons.dev/icons?i=nodejs" width="50" style="filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));"/>
-<br>
-<strong style="color: white; font-size: 14px;">Node.js</strong>
-</div>
-
-<div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); padding: 20px; border-radius: 20px; text-align: center; transition: transform 0.3s ease; border: 1px solid rgba(255, 255, 255, 0.2);">
-<img src="https://skillicons.dev/icons?i=mysql" width="50" style="filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));"/>
-<br>
-<strong style="color: white; font-size: 14px;">MySQL</strong>
-</div>
-
-<div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); padding: 20px; border-radius: 20px; text-align: center; transition: transform 0.3s ease; border: 1px solid rgba(255, 255, 255, 0.2);">
-<img src="https://skillicons.dev/icons?i=mongodb" width="50" style="filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));"/>
-<br>
-<strong style="color: white; font-size: 14px;">MongoDB</strong>
-</div>
-
-</div>
-</div>
-
-### 💎 **Development Tools**
-<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 30px; border-radius: 25px; margin: 20px 0; box-shadow: 0 15px 35px rgba(79, 172, 254, 0.3);">
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 20px; justify-items: center;">
-
-<div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); padding: 20px; border-radius: 20px; text-align: center; transition: transform 0.3s ease; border: 1px solid rgba(255, 255, 255, 0.2);">
-<img src="https://skillicons.dev/icons?i=git" width="50" style="filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));"/>
-<br>
-<strong style="color: white; font-size: 14px;">Git</strong>
-</div>
-
-<div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); padding: 20px; border-radius: 20px; text-align: center; transition: transform 0.3s ease; border: 1px solid rgba(255, 255, 255, 0.2);">
-<img src="https://skillicons.dev/icons?i=vscode" width="50" style="filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));"/>
-<br>
-<strong style="color: white; font-size: 14px;">VS Code</strong>
-</div>
-
-<div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); padding: 20px; border-radius: 20px; text-align: center; transition: transform 0.3s ease; border: 1px solid rgba(255, 255, 255, 0.2);">
-<img src="https://skillicons.dev/icons?i=docker" width="50" style="filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));"/>
-<br>
-<strong style="color: white; font-size: 14px;">Docker</strong>
-</div>
-
-<div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); padding: 20px; border-radius: 20px; text-align: center; transition: transform 0.3s ease; border: 1px solid rgba(255, 255, 255, 0.2);">
-<img src="https://skillicons.dev/icons?i=figma" width="50" style="filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));"/>
-<br>
-<strong style="color: white; font-size: 14px;">Figma</strong>
-</div>
-
-<div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); padding: 20px; border-radius: 20px; text-align: center; transition: transform 0.3s ease; border: 1px solid rgba(255, 255, 255, 0.2);">
-<img src="https://skillicons.dev/icons?i=vercel" width="50" style="filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));"/>
-<br>
-<strong style="color: white; font-size: 14px;">Vercel</strong>
-</div>
-
-</div>
-</div>
-
-</div>
-
-<!-- GitHub Stats Section -->
-<div align="center">
-
-## 📊 **GitHub Analytics**
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">
-
-<!-- Stats Card -->
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 20px; box-shadow: 0 10px 30px rgba(102, 126, 234, 0.3);">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyakumari1209&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=45,667eea,764ba2&title_color=fff&text_color=fff&icon_color=fff"/>
-</div>
-
-<!-- Top Languages -->
-<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 25px; border-radius: 20px; box-shadow: 0 10px 30px rgba(240, 147, 251, 0.3);">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyakumari1209&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=45,f093fb,f5576c&title_color=fff&text_color=fff"/>
-</div>
-
-</div>
-
-<!-- Streak Stats -->
-<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 25px; border-radius: 20px; margin: 20px 0; box-shadow: 0 10px 30px rgba(79, 172, 254, 0.3);">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyakumari1209&theme=radical&hide_border=true&background=45,4facfe,00f2fe&stroke=00f2fe&ring=4facfe&fire=4facfe&currStreakNum=fff&sideNums=fff&currStreakLabel=fff&sideLabels=fff&dates=fff" alt="GitHub Streak" />
-</div>
-
-</div>
-
-<!-- Achievements Section -->
-<div align="center">
-
-## 🏆 **GitHub Achievements**
-
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 25px; margin: 20px 0; box-shadow: 0 15px 35px rgba(102, 126, 234, 0.3);">
-
-<img src="https://github-profile-trophy.vercel.app/?username=priyakumari1209&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" alt="GitHub Trophies" style="max-width: 100%;" />
-
-</div>
-
-</div>
-
-<!-- Quote Section -->
-<div align="center">
-
-## ✨ **Developer Philosophy**
-
-<div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); padding: 40px; border-radius: 25px; margin: 30px 0; box-shadow: 0 15px 35px rgba(168, 237, 234, 0.3);">
-
-<h3 style="color: #2d3748; margin: 0; font-style: italic;">
-  "Code is like humor. When you have to explain it, it's bad."
-</h3>
-
-<p style="color: #4a5568; font-size: 18px; margin: 15px 0 0 0;">
-  ☕ Chai in my cup, clean code on my screen — building thoughtful, beautiful components every day
-</p>
-
-</div>
-
-</div>
-
-<!-- Footer -->
-<div align="center">
-
 ---
 
-### 🦋 **From cocoon to butterfly — transforming ideas into digital reality**
 
-<div style="margin: 20px 0;">
+📊 GitHub Analytics
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyakumari1209&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyakumari1209&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+      </td>
+    </tr>
+  </table>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyakumari1209&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+🏆 Achievements & Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=priyakumari1209&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
+
+
+
+<div align="center">
+💫 "Chai in my cup, clean code on my screen — building thoughtful, beautiful components every day" ✨
+
+🦋 From cocoon to butterfly — transforming ideas into digital reality
+</div>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&reversal=false&textBg=false" alt="Footer" />
 </div>
-
-</div>
-
-<style>
-/* Add some hover effects for better interactivity */
-div[style*="transition: transform 0.3s ease"]:hover {
-  transform: translateY(-5px) !important;
-  box-shadow: 0 10px 25px rgba(0,0,0,0.2) !important;
-}
-
-/* Smooth scrolling for better UX */
-html {
-  scroll-behavior: smooth;
-}
-
-/* Responsive design adjustments */
-@media (max-width: 768px) {
-  table {
-    display: block !important;
-  }
-  td {
-    display: block !important;
-    width: 100% !important;
-  }
-}
-</style>
