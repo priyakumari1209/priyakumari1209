@@ -2,18 +2,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+%F0%9F%9A%80;Laravel+%7C+React+%7C+TypeScript;Crafting+Magical+Digital+Experiences+%E2%9C%A8" alt="Typing SVG" />
 </div>
-
-<!-- Particle Effect for Extra Magic -->
-<div align="center">ackground: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
-<tr>
-<td style="border: none; padding: 20px;" width="50%">
-🚀 **Currently on a Journey**<br>
-🌱 **Learning**: Laravel as my backend powerhouse<br>
-🔭 **Building**: Full-stack applications with cutting-edge tech<br>
-💡 **Passion**: Clean code architecture & breathtaking UIs<br>
-☕ **Fuel**: Chai & curiosity-driven development<br><br>
-🎯 **Let's Connect & Collaborate!**<br>
-💬 Ask me about: Laravel, React, JavaScript, TypeScript<br>
 📧 Reach me: mishrapriya15987@gmail.com<br>
 🌐 Portfolio: [View My Work](https://your-portfolio-link.com) <!-- Replace with your actual link -->
 </td>
