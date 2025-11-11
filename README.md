@@ -34,27 +34,7 @@
 </td>
 <td align="center" width="120" style="padding: 10px;">
 <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="60" title="Tailwind: Expert - 95%"/>
-<br><strong style="color: #00ffff;">TAILWIND</strong><br>
-<progress value="95" max="100" style="width: 80px; height: 8px; border-radius: 4px;"></progress>
-</td>
-<td align="center" width="120" style="padding: 10px;">
-<img src="https://skillicons.dev/icons?i=js&theme=dark" width="60" title="JavaScript: Master - 98%"/>
-<br><strong style="color: #00ffff;">JAVASCRIPT</strong><br>
-<progress value="98" max="100" style="width: 80px; height: 8px; border-radius: 4px;"></progress>
-</td>
-</tr>
-</table>
-
-### 🔥 **BACKEND ARSENAL** (Hover for Skill Levels!)
-<table style="border-collapse: collapse; background: linear-gradient(45deg, #ff9a9e, #fecfef); border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
-<tr>
-<td align="center" width="120" style="padding: 10px;">
-<img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="60" title="Laravel: Expert - 92%"/>
-<br><strong style="color: #ff0080;">LARAVEL</strong><br>
-<progress value="92" max="100" style="width: 80px; height: 8px; border-radius: 4px;"></progress>
-</td>
-<td align="center" width="120" style="padding: 10px;">
-<img src="https://skillicons.dev/icons?i=php&theme=dark" width="60" title="PHP: Advanced - 88%"/>
+<br><strong style="ced - 88%"/>
 <br><strong style="color: #ff0080;">PHP</strong><br>
 <progress value="88" max="100" style="width: 80px; height: 8px; border-radius: 4px;"></progress>
 </td>
