@@ -7,7 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=priyakumari1209&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
 
-
 🌟 About Me
 <table style="border-collapse: collapse; border: none;">
 <tr>
