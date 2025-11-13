@@ -21,27 +21,6 @@ Hii its mee!
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,js,laravel,php,nodejs,mysql,mongodb,git,vscode,docker,figma,vercel&theme=light" />
 </div>
 
-
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyakumari1209&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"/>
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyakumari1209&layout=compact&langs_count=8&theme=default&hide_border=true"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyakumari1209&theme=default&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ## 🏆 Achievements & Trophies
 
 <div align="center">
