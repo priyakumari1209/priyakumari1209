@@ -16,24 +16,11 @@ Hii its mee!
 - 💬 Let's talk about: **Laravel**, **React**, **TypeScript**, or **full-stack development**
 - 📧 Reach me at: **mishrapriya15987@gmail.com**
 
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
 ## 🛠️ Tech Stack
-
 <div align="center">
-
-### ⚡ Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,js&theme=light" />
-
-### 🔥 Backend
-<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,mysql,mongodb&theme=light" />
-
-### 💎 Tools
-<img src="https://skillicons.dev/icons?i=git,vscode,docker,figma,vercel&theme=light" />
-
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,js,laravel,php,nodejs,mysql,mongodb,git,vscode,docker,figma,vercel&theme=light" />
 </div>
+
 
 
 ## 📊 GitHub Analytics
