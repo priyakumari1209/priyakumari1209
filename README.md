@@ -20,88 +20,21 @@ Hii its mee!
 
 <div align="center">
 
-### ⚡ Frontend
+## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=react&theme=light" width="60"/>
-<br><strong>React</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=nextjs&theme=light" width="60"/>
-<br><strong>Next.js</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=ts&theme=light" width="60"/>
-<br><strong>TypeScript</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=tailwind&theme=light" width="60"/>
-<br><strong>Tailwind CSS</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=js&theme=light" width="60"/>
-<br><strong>JavaScript</strong>
-</td>
-</tr>
-</table>
+<div align="center">
+
+### ⚡ Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,js&theme=light" />
 
 ### 🔥 Backend
+<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,mysql,mongodb&theme=light" />
 
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=laravel&theme=light" width="60"/>
-<br><strong>Laravel</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=php&theme=light" width="60"/>
-<br><strong>PHP</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=nodejs&theme=light" width="60"/>
-<br><strong>Node.js</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=mysql&theme=light" width="60"/>
-<br><strong>MySQL</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=mongodb&theme=light" width="60"/>
-<br><strong>MongoDB</strong>
-</td>
-</tr>
-</table>
-
-### 💎 Tools & Platforms
-
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=git&theme=light" width="60"/>
-<br><strong>Git</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=vscode&theme=light" width="60"/>
-<br><strong>VS Code</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=docker&theme=light" width="60"/>
-<br><strong>Docker</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=figma&theme=light" width="60"/>
-<br><strong>Figma</strong>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=vercel&theme=light" width="60"/>
-<br><strong>Vercel</strong>
-</td>
-</tr>
-</table>
+### 💎 Tools
+<img src="https://skillicons.dev/icons?i=git,vscode,docker,figma,vercel&theme=light" />
 
 </div>
+
 
 ## 📊 GitHub Analytics
 
