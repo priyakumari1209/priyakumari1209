@@ -1,124 +1,110 @@
-🦋 Hi there, I'm Priya Mishra!
+# 🦋 Hi there, I'm Priya Mishra!
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+%F0%9F%9A%80;Laravel+%7C+React+%7C+TypeScript;Building+Beautiful+Digital+Experiences+%E2%9C%A8" alt="Typing SVG" />
-</div>
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/a96549fe-8966-472e-b952-616f3a6bcf63" alt="Profile Banner" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=120&section=header&text=Priya%20Mishra%20|%20Full%20Stack%20Developer&fontSize=30&fontColor=ffffff&animation=fadeIn" alt="Profile Banner" style="border-radius:100%; box-shadow:0 4px 10px rgba(0,0,0,0.15);" />
+  <br/>
   <img src="https://komarev.com/ghpvc/?username=priyakumari1209&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
 
-🌟 About Me
-<table style="border-collapse: collapse; border: none;">
-<tr>
-<td style="border: none;" width="50%">
-🚀 Currently on a Journey
+---
 
-🌱 Learning: Laravel as backend powerhouse
-🔭 Building: Full-stack applications with modern tech
-💡 Passion: Clean code architecture & beautiful UIs
-☕ Fuel: Chai & curiosity-driven development
+##  About Me
 
-🎯 Let's Connect & Collaborate!
+- 🚀 Full-stack developer passionate about building scalable web applications  
+- 💻 Deep diving into **Laravel** and **React** ecosystems  
+- 🌱 Constantly improving architecture, performance, and clean code practices  
+- 💡 Strong focus on crafting intuitive UI/UX with modern frontend tools  
+- ☕ Runs on chai, curiosity, and creative problem-solving  
+- 💬 Let’s talk about: **Laravel**, **React**, **TypeScript**, or **full-stack development**  
+- 📧 Reach me at: **mishrapriya15987@gmail.com**
 
-💬 Ask me about: Laravel, React, JavaScript, TypeScript
-📧 Reach me: mishrapriya15987@gmail.com
-🌐 Portfolio: View My Work
+---
 
-</td>
-<td style="border: none; text-align: center;" width="50%">
-<img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/284615870/original/433e5854b95346083a296bf619257f067271e0e0/be-your-full-stack-developer-react-nextjs-laravel-nodejs.png" alt="Full Stack Developer" />
-</td>
-</tr>
-</table>
-
-## 🛠️ **TECH ARSENAL**
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### ⚡ **FRONTEND WEAPONRY**
+### ⚡ Frontend
+
 <table>
 <tr>
-<td align="center" width="120" style="background: linear-gradient(45deg, #1a1a2e, #16213e);">
+<td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=react&theme=dark" width="60"/>
-<br><strong style="color: #00ffff;">REACT</strong>
-
+<br><strong>React</strong>
 </td>
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="60"/>
-<br><strong style="color: #00ffff;">NEXT.JS</strong>
-
+<br><strong>Next.js</strong>
 </td>
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="60"/>
-<br><strong style="color: #00ffff;">TYPESCRIPT</strong>
-
+<br><strong>TypeScript</strong>
 </td>
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="60"/>
-<br><strong style="color: #00ffff;">TAILWIND</strong>
-
+<br><strong>Tailwind CSS</strong>
 </td>
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=js&theme=dark" width="60"/>
-<br><strong style="color: #00ffff;">JAVASCRIPT</strong>
-
+<br><strong>JavaScript</strong>
 </td>
 </tr>
 </table>
 
-### 🔥 **BACKEND ARSENAL**
+---
+
+### 🔥 Backend
+
 <table>
 <tr>
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="60"/>
-<br><strong style="color: #ff0080;">LARAVEL</strong>
-
+<br><strong>Laravel</strong>
 </td>
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=php&theme=dark" width="60"/>
-<br><strong style="color: #ff0080;">PHP</strong>
-
+<br><strong>PHP</strong>
 </td>
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="60"/>
-<br><strong style="color: #ff0080;">NODE.JS</strong>
-
+<br><strong>Node.js</strong>
 </td>
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="60"/>
-<br><strong style="color: #ff0080;">MYSQL</strong>
-
+<br><strong>MySQL</strong>
 </td>
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="60"/>
-<br><strong style="color: #ff0080;">MONGODB</strong>
-
+<br><strong>MongoDB</strong>
 </td>
 </tr>
 </table>
 
-### 💎 **POWER TOOLS**
+---
+
+### 💎 Tools & Platforms
+
 <table>
 <tr>
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=git&theme=dark" width="60"/>
-<br><strong style="color: #ffd700;">GIT</strong>
+<br><strong>Git</strong>
 </td>
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="60"/>
-<br><strong style="color: #ffd700;">VS CODE</strong>
+<br><strong>VS Code</strong>
 </td>
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="60"/>
-<br><strong style="color: #ffd700;">DOCKER</strong>
+<br><strong>Docker</strong>
 </td>
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="60"/>
-<br><strong style="color: #ffd700;">FIGMA</strong>
+<br><strong>Figma</strong>
 </td>
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="60"/>
-<br><strong style="color: #ffd700;">VERCEL</strong>
+<br><strong>Vercel</strong>
 </td>
 </tr>
 </table>
@@ -127,8 +113,8 @@
 
 ---
 
+## 📊 GitHub Analytics
 
-📊 GitHub Analytics
 <div align="center">
   <table>
     <tr>
@@ -141,22 +127,28 @@
     </tr>
   </table>
 </div>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyakumari1209&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-🏆 Achievements & Trophies
+---
+
+## 🏆 Achievements & Trophies
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=priyakumari1209&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
-
+---
 
 <div align="center">
-💫 "Chai in my cup, clean code on my screen — building thoughtful, beautiful components every day" ✨
-
-🦋 From cocoon to butterfly — transforming ideas into digital reality
+  💫 “Chai in my cup, clean code on my screen — building thoughtful, beautiful components every day.”  
+  <br/>
+  🦋 From cocoon to butterfly — transforming ideas into digital reality.
 </div>
+
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&reversal=false&textBg=false" alt="Footer" />
