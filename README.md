@@ -20,21 +20,12 @@ Hii its mee!
 <div align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,js,laravel,php,nodejs,mysql,mongodb,git,vscode,docker,figma,vercel&theme=light" />
 </div>
-📊 GitHub Analytics
+
+## 📊 GitHub Stats
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyakumari1209&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyakumari1209&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-      </td>
-    </tr>
-  </table>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyakumari1209&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=priyakumari1209&show_icons=true&theme=light&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyakumari1209&layout=compact&theme=light&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=priyakumari1209&theme=light&hide_border=true" height="150"/>
 </div>
 
 ## 🏆 Achievements & Trophies
