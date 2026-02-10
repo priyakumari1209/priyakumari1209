@@ -126,11 +126,11 @@ const priya = {
 </div>
 
 ---
-
 <div align="center">
-  
-### 💭 *"Transforming ideas into elegant code, one commit at a time"*
 
-⭐️ From [priyakumari1209](https://github.com/priyakumari1209)
+### 🚀 *"Crafting code that speaks for itself and builds the future"*
+
+🔹 Explore my work on [GitHub](https://github.com/priyakumari1209)
 
 </div>
+
