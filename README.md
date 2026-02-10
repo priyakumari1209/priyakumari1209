@@ -12,23 +12,47 @@
 
 ## 👩‍💻 About Me
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 Quick Intro
+
 ```typescript
 const priya = {
     role: "Full Stack Developer",
-    location: "Chennai, Tamil Nadu, India",
-    currentFocus: "Building scalable web applications",
-    learning: ["Laravel", "Advanced React Patterns", "System Design"],
-    interests: ["Clean Architecture", "UI/UX Design", "Problem Solving"],
-    contact: "mishrapriya15987@gmail.com"
+    location: "Chennai, Tamil Nadu",
+    currentFocus: "Scalable Web Apps",
+    passion: "Clean Code & UX"
 };
 ```
 
-- 🔭 Currently working on full-stack applications with modern frameworks
-- 🌱 Deepening my expertise in Laravel backend development
-- 💡 Passionate about writing clean, maintainable code
-- ✨ Love creating beautiful and intuitive user interfaces
-- 💬 Ask me about React, Laravel, JavaScript, TypeScript
-- ☕ Fueled by chai and curiosity
+**📍 Based in Chennai, Tamil Nadu, India**  
+**📧 mishrapriya15987@gmail.com**
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 What I Do
+
+🔭 **Building** modern full-stack applications  
+🌱 **Learning** Laravel & advanced React patterns  
+💡 **Crafting** clean, maintainable architectures  
+✨ **Designing** beautiful user experiences  
+💬 **Exploring** TypeScript & system design  
+☕ **Powered by** chai and curiosity
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🎯 Core Expertise
+
+**Frontend Excellence** • **Backend Architecture** • **Database Design** • **UI/UX Development**
+
+</div>
 
 ---
 
