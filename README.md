@@ -6,54 +6,6 @@
 
 </div>
 
----
-
-## 👩‍💻 About Me
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🚀 Quick Intro
-
-```typescript
-const priya = {
-    role: "Full Stack Developer",
-    location: "Chennai, Tamil Nadu",
-    currentFocus: "Scalable Web Apps",
-    passion: "Clean Code & UX"
-};
-```
-
-**📍 Based in Chennai, Tamil Nadu, India**  
-**📧 mishrapriya15987@gmail.com**
-
-</td>
-<td width="50%" valign="top">
-
-### 💼 What I Do
-
-🔭 **Building** modern full-stack applications  
-🌱 **Learning** Laravel & advanced React patterns  
-💡 **Crafting** clean, maintainable architectures  
-✨ **Designing** beautiful user experiences  
-💬 **Exploring** TypeScript & system design  
-☕ **Powered by** chai and curiosity
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-### 🎯 Core Expertise
-
-**Frontend Excellence** • **Backend Architecture** • **Database Design** • **UI/UX Development**
-
-</div>
-
----
-
 ## 🛠️ Technical Skills
 
 ### Frontend Development
@@ -93,18 +45,6 @@ const priya = {
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyakumari1209&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
 </div>
-
----
-
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=priyakumari1209&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
