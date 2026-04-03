@@ -36,17 +36,8 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyakumari1209&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
-</div>
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyakumari1209&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
----
 
 ## 🤝 Connect With Me
-
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_LINK)
