@@ -1,11 +1,3 @@
-<div align="center"> Hi there, I'm Priya 👋
-
-### Full Stack Developer | Laravel • React • TypeScript
-
-<img src="https://komarev.com/ghpvc/?username=priyakumari1209&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-
-</div>
-
 ## 🛠️ Technical Skills
 
 ### Frontend Development
